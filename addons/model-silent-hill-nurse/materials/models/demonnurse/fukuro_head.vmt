@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/demonnurse/fukuro_head"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 0.8
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+	"$halflambert" 1
+}

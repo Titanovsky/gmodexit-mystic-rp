@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Moon Lord", "models/lordcthulhu814/moonlord/moonlord.mdl" );

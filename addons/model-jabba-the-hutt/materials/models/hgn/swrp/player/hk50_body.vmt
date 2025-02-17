@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\hgn\swrp\player\hk50"
+        "$bumpmap" "models\hgn\swrp\player\hk47_body_n"
+		
+	"$model" "1"
+	"$halflambert" "1"
+	
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" 5
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.1 0.9 0.9]"
+}

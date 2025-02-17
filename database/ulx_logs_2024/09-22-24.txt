@@ -1,0 +1,98 @@
+<Logging continued from "data/ulx_logs/09-21-24.txt">
+[10:23:04] Client "stepaklepa" connected.
+[10:44:56] Client "Отдавай БАН" connected.
+[10:45:22] Client "Отдавай БАН" connected.
+[10:48:45] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 203 seconds).
+[10:50:40] Client "banan#яподтрубкой" connected.
+[10:58:16] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube05x05x05.mdl
+[10:58:18] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube05x05x05.mdl
+[10:58:33] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[10:58:34] Client "Отдавай БАН" connected.
+[10:59:00] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 26 seconds).
+[11:01:12] Client "banan#яподтрубкой" spawned in server <STEAM_0:0:635862919> (took 632 seconds).
+[11:05:54] вывек класеков: дарова
+[11:06:12] вывек класеков: имба
+[11:06:19] вывек класеков: но у меня вопрос
+[11:06:27] вывек класеков: ты же ее получил
+[11:07:13] вывек класеков: а чо гарри чтоли заходи на разные серваки?
+[11:07:33] вывек класеков: с большим онлайном
+[11:08:09] вывек класеков: так чо он так резко начал заходить на серваки
+[11:09:42] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube125x125x025.mdl
+[11:09:42] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube125x125x025.mdl
+[11:09:42] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/trains/fsd-overrun.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x05x025.mdl
+[11:10:30] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/m3.mdl
+[11:10:30] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/robotics/l3.mdl
+[11:10:30] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube4x4x025.mdl
+[11:10:30] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube4x6x05.mdl
+[11:10:30] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube4x6x05.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/m3.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/robotics/l4.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/articulating/arm2x20d2.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/robotics/l3.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/articulating/arm2x20d.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/b1.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/articulating/arm2x20d.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/d3.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/b4.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x4x025.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x6x025.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/b4.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/d3.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube4x6x05.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/robotics/xfoot.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x6x025.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/f2.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/g1.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/articulating/arm2x20d2.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/roboticslarge/d3.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/plates/plate.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/plates/plate.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/blocks/cube025x4x025.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/mechanics/robotics/xfoot.mdl
+[11:10:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/plates/plate.mdl
+[11:12:00] Чудак Шаман<STEAM_0:0:516288531> spawned model models/hunter/plates/plate05x05.mdl
+[11:12:36] Dropped "вывек класеков" from server<STEAM_0:0:635862919>
+[11:12:52] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[11:53:11] Client "Отдавай БАН" connected.
+[11:53:52] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 41 seconds).
+[12:15:26] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_c17/furniturecouch001a.mdl
+[12:15:28] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_c17/furniturefireplace001a.mdl
+[12:15:30] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_combine/combine_bridge_b.mdl
+[12:18:00] Чудак Шаман<STEAM_0:0:516288531> spawned model models/weapons/w_snip_sg550.mdl
+[12:19:07] Чудак Шаман<STEAM_0:0:516288531> spawned model models/weapons/w_shot_m3super90.mdl
+[12:26:03] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[12:49:08] Client "Отдавай БАН" connected.
+[12:49:48] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 40 seconds).
+[12:57:43] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[13:14:27] Client "Отдавай БАН" connected.
+[13:14:38] Client "Отдавай БАН" connected.
+[13:15:15] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 37 seconds).
+[13:15:39] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[17:36:57] Client "Отдавай БАН" connected.
+[17:37:35] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 38 seconds).
+[18:01:59] Client "SURTUR" connected.
+[18:03:58] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_c17/furnituredrawer003a.mdl
+[18:04:27] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_c17/furnituretable002a.mdl
+[18:05:03] Client "SURTUR" connected.
+[18:07:02] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+<Logging continued in "data/ulx_logs/09-23-24.txt">

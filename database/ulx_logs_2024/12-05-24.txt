@@ -1,0 +1,6 @@
+[05:06:15] New map: rp_mystic
+[09:39:51] Client "Grysha" connected.
+[09:53:10] Client "Grysha" spawned in server <STEAM_0:1:636628922> (took 799 seconds).
+[09:55:53] Dropped "Michel Afton" from server<STEAM_0:1:636628922>
+[19:21:42] Client "реальный" connected.
+[21:52:17] Client "UDVORNIK" connected.

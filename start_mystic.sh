@@ -1,0 +1,1 @@
+~/steamcmd/serv-mystic-rp/srcds_run -game garrysmod -port 27016 +map rp_mystic +maxplayers 64 +gamemode darkrp +sv_setsteamaccount adc

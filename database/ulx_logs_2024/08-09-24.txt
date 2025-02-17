@@ -1,0 +1,7 @@
+[00:10:37] New map: rp_mystic
+[13:06:23] Client "HIMIK" connected.
+[13:11:22] Client "HIMIK" spawned in server <STEAM_0:0:79388741> (took 299 seconds).
+[13:16:23] Dropped "дима дмитрий" from server<STEAM_0:0:79388741>
+[16:18:16] Client "Skin" connected.
+[17:30:28] Client "ВАЕНЫЕ ИСИПИ" connected.
+<Logging continued in "data/ulx_logs/08-10-24.txt">

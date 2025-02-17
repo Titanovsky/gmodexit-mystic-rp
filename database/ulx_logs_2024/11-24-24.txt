@@ -1,0 +1,5 @@
+[05:06:14] New map: rp_mystic
+[09:22:35] Client "YusRLS" connected.
+[13:51:33] Client "Baki_hanma" connected.
+[14:24:24] Client "ZedShopp.ru" connected.
+[15:07:13] Client "левчик" connected.

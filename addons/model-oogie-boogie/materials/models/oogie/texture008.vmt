@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/oogie/texture008"
+	"$halflambert" "1"
+}

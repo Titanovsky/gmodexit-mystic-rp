@@ -1,0 +1,25 @@
+<Logging continued from "data/ulx_logs/11-16-24.txt">
+[00:34:50] Client "milk!?" connected.
+[00:46:42] Client "milk!?" spawned in server <STEAM_0:0:658816584> (took 712 seconds).
+[00:50:13] Milk nah: !menu
+[00:52:15] Milk nah<STEAM_0:0:658816584> spawned model models/props_c17/fence01b.mdl
+[00:53:14] Dropped "Milk nah" from server<STEAM_0:0:658816584>
+
+
+
+[05:06:18] New map: rp_mystic
+[13:18:52] Client "Отдавай БАН" connected.
+[13:26:34] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 462 seconds).
+[13:38:34] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[14:49:17] Client "realnoob" connected.
+[14:57:17] Client "realnoob" spawned in server <STEAM_0:0:887215347> (took 480 seconds).
+[16:28:52] Client "Unusual Feeling" connected.
+[16:32:00] Client "Unusual Feeling" spawned in server <STEAM_0:0:215026430> (took 188 seconds).
+[16:40:18] Dropped "MatE Ball" from server<STEAM_0:0:215026430>
+[16:43:12] Client "Unusual Feeling" connected.
+[16:47:52] Client "xiajsh" connected.
+[17:00:56] Client "Unusual Feeling" connected.
+[17:01:47] Client "Unusual Feeling" spawned in server <STEAM_0:0:215026430> (took 51 seconds).
+[17:02:12] Client "Forost" connected.
+[17:02:42] Dropped "MatE Ball" from server<STEAM_0:0:215026430>
+[17:16:14] Dropped "realnoob" from server<STEAM_0:0:887215347>

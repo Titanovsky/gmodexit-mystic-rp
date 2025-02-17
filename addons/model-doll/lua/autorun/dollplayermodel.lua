@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Doll", "models/vinrax/player/doll_player.mdl" );

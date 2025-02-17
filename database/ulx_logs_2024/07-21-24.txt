@@ -1,0 +1,17 @@
+<Logging continued from "data/ulx_logs/07-20-24.txt">
+[09:54:08] Client "dayn_com" connected.
+[10:00:25] Client "dayn_com" spawned in server <STEAM_0:0:891116860> (took 377 seconds).
+[10:04:27] Dropped "слав гойда" from server<STEAM_0:0:891116860>
+[10:15:26] Client "Habenbomba" connected.
+[10:16:05] Client "squad" connected.
+[10:20:06] Client "Habenbomba" spawned in server <STEAM_0:0:789455798> (took 280 seconds).
+[10:20:36] Client "squad" spawned in server <STEAM_0:1:751148425> (took 271 seconds).
+[10:23:20] Mihhail Donovij: /discord\
+[10:41:41] Dropped "вавава апапа" from server<STEAM_0:1:751148425>
+[10:41:59] Dropped "Mihhail Donovij" from server<STEAM_0:0:789455798>
+[17:50:30] Client "Titanovsky" connected.
+[17:51:05] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 35 seconds).
+[17:53:03] Алексей Титановский: STEAM_0:1:95303327
+[18:01:39] Алексей Титановский suicided!
+[18:07:20] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+<Logging continued in "data/ulx_logs/07-22-24.txt">

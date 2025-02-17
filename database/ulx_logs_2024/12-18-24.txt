@@ -1,0 +1,3 @@
+[05:06:18] New map: rp_mystic
+[16:15:23] Client "Artempiy" connected.
+[20:39:41] Client "denisbraz34" connected.

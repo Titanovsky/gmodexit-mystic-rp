@@ -1,0 +1,12 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models/mark2580/gtav/mp_apa_06/planningrm/prop_ng_fruit_logoprop_ng_fruit_logo_a" 
+    "$bumpmap"      "models/mark2580/gtav/mp_apa_06/planningrm/prop_ng_fruit_logo_n"
+
+ 	"$envmap"             "env_cubemap"
+    "$envmaptint"         "[.05 .05 .05]"
+    "$normalmapalphaenvmapmask"    "1"	
+	
+    "$nocull"             "1"
+     $alphatest 1	
+} 

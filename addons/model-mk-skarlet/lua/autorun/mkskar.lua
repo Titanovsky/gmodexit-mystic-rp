@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Mortal Kombat Skarlet",                     "models/player/bobert/mkskar.mdl" )  list.Set( "PlayerOptionsModel",  "Mortal Kombat Skarlet",                     "models/player/bobert/mkskar.mdl" )

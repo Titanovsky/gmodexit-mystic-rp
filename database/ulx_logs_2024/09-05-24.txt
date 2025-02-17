@@ -1,0 +1,7 @@
+<Logging continued from "data/ulx_logs/09-03-24.txt">
+[08:52:06] Client "Timetokill" connected.
+[08:58:22] Client "Timetokill" spawned in server <STEAM_0:0:536665313> (took 376 seconds).
+[09:07:05] Dropped "Пипетка Хайбабамваер" from server<STEAM_0:0:536665313>
+[15:20:19] Client "У МЕНЯ СПРАВКА" connected.
+[16:29:19] Client "Gerd СКРФ" connected.
+<Logging continued in "data/ulx_logs/09-06-24.txt">

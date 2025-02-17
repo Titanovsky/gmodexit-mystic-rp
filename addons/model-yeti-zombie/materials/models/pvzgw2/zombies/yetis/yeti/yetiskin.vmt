@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pvzgw2/Zombies/yetis/yeti/YetiSkin"
+	"$bumpmap" "models/pvzgw2/Zombies/yetis/yeti/YetiSkin_N"
+	"$nocull" 1
+}

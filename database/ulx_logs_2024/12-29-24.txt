@@ -1,0 +1,5 @@
+[05:06:18] New map: rp_mystic
+[16:24:40] Client "Ebobola" connected.
+[16:34:06] Client "Ebobola" spawned in server <STEAM_0:0:466397983> (took 566 seconds).
+[16:36:26] Client "Chester03" connected.
+[16:45:15] Dropped "витя белозеров" from server<STEAM_0:0:466397983>

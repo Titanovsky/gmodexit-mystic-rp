@@ -1,0 +1,10 @@
+[05:06:14] New map: rp_mystic
+[18:10:52] Client "★13yo talent çápšú ★" connected.
+[21:05:50] Client "DSAFA" connected.
+[21:07:58] Client "sloop" connected.
+[21:12:25] Client "Вова ПИDорас" connected.
+[21:13:05] Client "DSAFA" spawned in server <STEAM_0:1:442851069> (took 435 seconds).
+[21:14:14] Client "sloop" spawned in server <STEAM_0:0:912768464> (took 376 seconds).
+[21:23:20] Dropped "Валера Короленко" from server<STEAM_0:1:442851069>
+[21:27:45] Dropped "Чушка Матвеенко" from server<STEAM_0:0:912768464>
+[22:13:24] Client "lera040986" connected.

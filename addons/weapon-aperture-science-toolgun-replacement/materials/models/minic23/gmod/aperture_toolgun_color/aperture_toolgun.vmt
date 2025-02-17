@@ -1,0 +1,70 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\minic23\gmod\aperture_toolgun_color\tool_color"
+	"$bumpmap" "models\minic23\gmod\aperture_toolgun\tool_NRM"
+
+	"$phong" 1
+	"$phongboost" 0.8
+//	"$phongexponent" 20
+	"$phongexponenttexture" "models\minic23\gmod\aperture_toolgun\tool_MSK"
+	"$phongtint" "[1 1 1]"
+	"$phongfresnelranges" "[.5 .5 3]"
+	"$model" 1
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+ 	"$blendtintcoloroverbase" "0" // blend mode. anything =/= 0 is ugly!
+
+
+	// "$selfillumtint" "[0.3 1.8 2.1]" // Default
+	// "$selfillumtint" "[1.5 2.2 1.9]" // White
+	// "$selfillumtint" "[3.5 0.3 0.2]" // Red
+	// "$selfillumtint" "[2.8 1.7 0.4]" // Yellow
+	// "$selfillumtint" "[0.5 2.1 0.8]" // Green (medical)
+	// "$selfillumtint" "[1.0 2.4 0.4]" // Green (forest)
+	// "$selfillumtint" "[0.5 0.6 3.1]" // Blue (lavender)
+	// "$selfillumtint" "[1.4 0.6 2.5]" // Purple
+	// "$selfillumtint" "[1.9 0.6 1.1]" // Pink
+	
+Proxies
+	{
+		PlayerWeaponColor
+		{
+			resultVar	$color2 // pass the player color value to Gmod
+			default		0.23 0.35 0.41 // unused for now.
+		}
+		Clamp // clamp the chosen color between 1% and 125% (usually)
+		{
+			min 0.01
+			max 1.25
+			srcVar1 "$color2"
+			resultVar "$color2"
+		}
+		Clamp // copy this value to phong tint, clamp it to 50% min.
+		{
+			min 0.5
+			max 1.0
+			srcVar1 "$color2"
+			resultVar "$phongtint"
+		}
+		Equals // copy $color2 value to exterior variable. this makes it
+		{      // no longer a RGB array but a single float instead (!??)
+			srcVar1 "$color2"
+			resultVar "$PhongBrightnessScalar"
+		}
+		Multiply // multiply $phongtint by this new float value.
+		{
+			srcVar1 "$phongtint"
+			srcVar2 "$phongBrightnessScalar"
+			resultVar "$phongtint"
+		}
+		Clamp // the result of this multiply doesn't go any lower than 20%
+		{
+			min 0.25
+			max 1.00
+			srcVar1 "$phongtint"
+			resultVar "$phongtint"
+		}
+	}
+
+
+
+}

@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/arccw/mw2/mw2_sensor_screen_2upscaled"
+	"$surfaceprop" "Default"
+	"$selfillum" 1
+	"$model" 1
+	"Proxies" 
+		{ 
+		"AnimatedTexture" 
+			{ 
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "28" 
+			}
+		} 
+}

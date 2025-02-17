@@ -1,0 +1,18 @@
+<Logging continued from "data/ulx_logs/11-29-24.txt">
+[00:07:15] Client "Oleshka_lytik" connected.
+
+
+
+[05:06:16] New map: rp_mystic
+[11:07:49] Client "toshka2412" connected.
+[11:11:56] Client "toshka2412" connected.
+[15:55:43] Client "king.gorodovoi" connected.
+[21:39:24] Client "๋ٴ๋๋ ٴ  ٴ ๋" connected.
+[21:45:04] Client "๋ٴ๋๋ ٴ  ٴ ๋" spawned in server <STEAM_0:1:513474040> (took 340 seconds).
+[21:48:14] Client "Rufus" connected.
+[21:52:10] Bulka: /rpg
+[21:54:15] Dropped "Bulka" from server<STEAM_0:1:513474040>
+[21:54:17] Client "Warter_kn" connected.
+[21:55:36] Client "Rufus" spawned in server <STEAM_0:0:94445334> (took 442 seconds).
+[22:11:26] Dropped "Rufus Alastar" from server<STEAM_0:0:94445334>
+[22:14:23] Client "{Z} apelsin" connected.

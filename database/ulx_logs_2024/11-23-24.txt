@@ -1,0 +1,3 @@
+[05:06:14] New map: rp_mystic
+[18:37:24] Client "barbosik1" connected.
+[23:14:39] Client "sale acc" connected.

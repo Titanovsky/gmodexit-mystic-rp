@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/doa5_kasumi/kas_sitamatuge"
+	"$halflambert" 1
+	"$translucent" 1
+	"$nocull" 1
+}

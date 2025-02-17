@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "ospr/test"
+	$translucent 1
+	$model 1
+}

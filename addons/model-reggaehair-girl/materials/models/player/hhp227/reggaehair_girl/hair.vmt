@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\hhp227\reggaehair_girl/hair"
+	"$bumpmap" "models\player\hhp227\reggaehair_girl/hair_normal"
+$phong 1
+$phongboost "2.4"
+$phongexponent 6
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+$nodecal 1
+$ambientocclusion 1
+$halflambert 1
+$diffuseexp "1.5"
+	"$lightwarptexture" "models\player\hhp227/face_wrp"
+	"$nocull" 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 6
+}

@@ -1,0 +1,1 @@
+player_manager.AddValidHands( "Hollow_Thief", "models/weapons/c_arms_thollow.mdl", 0, "00000000" )

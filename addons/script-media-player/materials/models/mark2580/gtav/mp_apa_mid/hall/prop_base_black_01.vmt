@@ -1,0 +1,11 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "tools/toolsblack" 
+    "$bumpmap"      "dev/bump_normal"
+
+ 	"$envmap"             "env_cubemap"
+    "$envmaptint"         "[.02 .02 .02]"
+    "$normalmapalphaenvmapmask"    "1"	
+	
+    "$nocull"             "1" 
+} 

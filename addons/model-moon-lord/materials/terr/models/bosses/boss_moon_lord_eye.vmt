@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "terr\models\bosses\boss_moon_lord_eye"
+	
+	$halflambert 1
+	$nodecal 1
+}

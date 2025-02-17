@@ -1,0 +1,17 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models/mark2580/gtav/mp_apa_mid/hall/prop_plant_int_01prop_plant_int_01_a"
+    "$bumpmap"            "models/mark2580/gtav/mp_apa_mid/hall/prop_plant_int_01_n"	
+ 
+   "$normalmapalphaenvmapmask"    "1" 
+   $alphatest 1
+   $alphatestreference 0.5
+   
+ //  $translucent 1
+ 
+    $phong               1
+   $phongfresnelranges  "[0.3 0.75 1.00]"
+   $halflambert         1
+   $phongexponent       10
+   $phongboost          0.1 
+} 

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/psychedelicum/silent_hill/bubble_nurse/great_knife"
+	$bumpmap "models/psychedelicum/silent_hill/bubble_nurse/great_knife_bump"
+}

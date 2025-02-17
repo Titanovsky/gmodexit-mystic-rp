@@ -1,0 +1,66 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/workshop/prizon/items/all_class/prized_possession/prized_possession_color"
+	"$lightwarptexture"		"models/lightwarps/weapon_lightwarp"
+	"$phong"		"1"
+	"$phongexponent"		"10000"
+	"$phongboost"		"0.000000"
+	"$phongfresnelranges"		"[0 0 0]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"10000"
+	"$rimlightboost"		"0.000000"
+	"$blendtintbybasealpha"		"0"
+	"$blendtintcoloroverbase"		"0.000000"
+	"$colortint_base"		"{ 125 208 146 }"
+	"$color2"		"{ 125 208 146 }"
+	"$colortint_tmp"		"[0 0 0]"
+	"$additive"		"1"
+	"$nocull"		"1"
+	"$halflambert"		"1"
+	"$cloakPassEnabled"		"1"
+	"$detail"		"effects/tiledfire/fireLayeredSlowTiled512"
+	"$detailscale"		"5"
+	"$detailblendfactor"		"0"
+	"$detailblendmode"		"6"
+	"$yellow"		"0"
+	">=DX90"
+	{
+		"$selfillum"		"1"
+	}
+	"$selfillumtint"		"[1 1 1]"
+	"proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar"		"$detail"
+			"animatedtextureframenumvar"		"$detailframe"
+			"animatedtextureframerate"		"30"
+		}
+		"BurnLevel"
+		{
+			"resultVar"		"$detailblendfactor"
+		}
+		"YellowLevel"
+		{
+			"resultVar"		"$yellow"
+		}
+		"Equals"
+		{
+			"srcVar1"		"$yellow"
+			"resultVar"		"$color2"
+		}
+		"ItemTintColor"
+		{
+			"resultVar"		"$colortint_tmp"
+		}
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"		"$colortint_tmp"
+			"srcVar2"		"$colortint_base"
+			"resultVar"		"$color2"
+		}
+	}
+}

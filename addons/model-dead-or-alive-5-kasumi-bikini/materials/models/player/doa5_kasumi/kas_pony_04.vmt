@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/doa5_kasumi/kas_pony_04"
+	"$bumpmap" "models/player/doa5_kasumi/kas_pony_04_n"
+	"$halflambert" 1
+	"$alphatest" 1
+	"$nocull" 1
+
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.03 0.3 1]"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "6"
+	"$rimlightboost" "0.5"
+}

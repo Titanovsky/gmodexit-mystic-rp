@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\mailer\kiljaeden\eredarwarlockpurple"
+	"$bumpmap" "models\mailer\kiljaeden\eredarwarlocknorm"
+	"$phongfresnelranges"	"[1 1 10 ]"
+	"$nocull" "1"
+	"$selfIllumFresnel"	"1"
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$phong"				"1"
+	"$phongboost"			"1"	
+	"$alphatest" 1
+	"$AmbientOcclusion" "0"
+}

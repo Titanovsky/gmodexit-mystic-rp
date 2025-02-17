@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\minic23\gmod\aperture_toolgun\tool"
+	"$bumpmap" "models\minic23\gmod\aperture_toolgun\tool_NRM"
+
+	"$phong" 1
+	"$phongboost" 0.8
+//	"$phongexponent" 20
+	"$phongexponenttexture" "models\minic23\gmod\aperture_toolgun\tool_MSK"
+	"$phongtint" "[1 1 1]"
+	"$phongfresnelranges" "[.5 .5 3]"
+	"$model" 1
+
+
+
+
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\humans\clannypolice/lowr_diff_000_a_uni"
+	"$bumpmap" "models\humans\clannypolice/lowr_normal_000"
+	"$halflambert" 1
+}

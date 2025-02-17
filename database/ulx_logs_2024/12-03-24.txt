@@ -1,0 +1,3 @@
+[05:06:17] New map: rp_mystic
+[19:21:31] Client "Xayten" connected.
+[20:07:35] Client "Vitaliy" connected.

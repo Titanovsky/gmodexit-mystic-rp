@@ -1,0 +1,4 @@
+[09:05:11] New map: rp_mystic
+[09:16:07] Client "Titanovsky" connected.
+[09:17:03] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 56 seconds).
+[09:17:40] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>

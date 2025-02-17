@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cheapman/cheapman_wildcat"
+	"$surfaceprop" "Flesh"
+}

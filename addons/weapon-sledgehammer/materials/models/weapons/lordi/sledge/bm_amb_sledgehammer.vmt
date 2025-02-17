@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/lordi/sledge/bm_amb_sledgehammer"
+	"$bumpmap" "models/weapons/lordi/sledge/bm_amb_sledgehammer_norm"
+//	"$envmap" "Environment Maps/specular"
+	"$envmaptint" "[ .25 .25 .25 ]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

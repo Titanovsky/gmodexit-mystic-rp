@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\hands\c_witch"
+	"$bumpmap" "models\weapons\v_models\hands\c_witch_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+}

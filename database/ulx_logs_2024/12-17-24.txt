@@ -1,0 +1,4 @@
+[05:06:16] New map: rp_mystic
+[11:19:28] Client "Duchad" connected.
+[11:25:04] Client "Duchad" spawned in server <STEAM_0:1:579414193> (took 336 seconds).
+[11:28:03] Dropped "Евсей Бран" from server<STEAM_0:1:579414193>

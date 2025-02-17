@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pvzgw2/Zombies/yetis/yeti/YetiFur"
+	"$nocull" 1
+}

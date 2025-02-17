@@ -1,0 +1,4 @@
+[05:06:17] New map: rp_mystic
+[23:04:26] Client "Тихий кот" connected.
+[23:11:47] Client "Тихий кот" spawned in server <STEAM_0:1:465459255> (took 441 seconds).
+[23:17:59] Dropped "Gorder Femsun" from server<STEAM_0:1:465459255>

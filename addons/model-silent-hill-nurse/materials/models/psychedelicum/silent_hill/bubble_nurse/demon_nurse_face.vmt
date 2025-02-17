@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/demonnurse/demon_nurse_face"
+	"$bumpmap" "models/demonnurse/demon_nurse_face_bump"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 0.8
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+	"$halflambert" 1
+}

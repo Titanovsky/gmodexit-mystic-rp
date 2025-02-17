@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Nightingale", "models/player/yevocore/nightingalepm/nightingale.mdl" );
+list.Set( "PlayerOptionsModel", "Nightingale", "models/player/yevocore/nightingalepm/nightingale.mdl" );

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/spooky_space_kook/kook_og"
+
+	"$phong" "1"
+	"$phongexponent" 35
+	"$phongboost" "0.5"
+	"$phongfresnelranges"	"[ .3 3 9]"
+}

@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/aeon2/eyeball_r"
+	"$iris" "models/aeon2/pupil_r"
+	"$halflambert" "1"
+}

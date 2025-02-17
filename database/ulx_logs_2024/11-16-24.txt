@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/11-15-24.txt">
+[01:15:00] Client "simple" connected.
+[01:21:49] Client "TTL_UpSeT" connected.
+[01:30:46] Client "TTL_UpSeT" spawned in server <STEAM_0:0:578522830> (took 537 seconds).
+[01:32:30] evgenyy  stfash<STEAM_0:0:578522830> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[01:34:15] Dropped "evgenyy  stfash" from server<STEAM_0:0:578522830>
+
+
+
+[05:06:15] New map: rp_mystic
+[15:27:49] Client "HIMIK....." connected.
+<Logging continued in "data/ulx_logs/11-17-24.txt">

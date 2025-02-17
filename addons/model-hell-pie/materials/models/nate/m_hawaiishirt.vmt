@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/nate/M_HawaiiShirt"
+	"$nocull" 1
+}

@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/aeon/finthings"
+	"$bumpmap" "models/aeon/finthings_n"
+	"$alphatest" "0"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "0.2"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 4 10]"
+	//"$phongwarptexture"  ""
+
+	"$ambientocclusion" "1"
+	"$detail" "models/aeon/detail_skin"
+	"$detailscale" "5"
+	"$detailblendfactor" "0.7"
+	"$detailblendmode" "0"
+}

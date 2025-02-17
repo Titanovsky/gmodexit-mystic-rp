@@ -1,0 +1,74 @@
+<Logging continued from "data/ulx_logs/07-16-24.txt">
+[05:19:33] Client "Отдавай БАН" connected.
+[05:20:12] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 39 seconds).
+[05:24:18] Чудак Шаман killed Bot02 using player
+[05:24:31] Чудак Шаман killed Bot02 using player
+[05:24:38] Чудак Шаман killed Bot02 using player
+[05:24:45] Чудак Шаман killed Bot02 using player
+[05:24:49] Чудак Шаман killed Bot02 using player
+[05:24:58] Чудак Шаман killed Bot02 using player
+[05:25:14] Чудак Шаман killed Bot02 using player
+[05:25:19] Чудак Шаман killed Bot02 using player
+[05:25:26] Чудак Шаман killed Bot02 using player
+[05:25:30] Чудак Шаман killed Bot02 using player
+[05:25:33] Чудак Шаман killed Bot02 using player
+[05:25:37] Чудак Шаман killed Bot02 using player
+[05:25:43] Чудак Шаман killed Bot02 using player
+[05:26:56] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[06:03:47] Client "Asuna's Knight" connected.
+[06:06:11] Client "Asuna's Knight" spawned in server <STEAM_0:0:506794397> (took 144 seconds).
+[06:23:34] Client "Отдавай БАН" connected.
+[06:24:11] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 37 seconds).
+[06:26:03] Dropped "Дубайский Авантюрист" from server<STEAM_0:0:506794397>
+[06:26:05] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_lab/blastdoor001b.mdl
+[06:32:27] Чудак Шаман killed Bot03 using player
+[06:32:53] Чудак Шаман killed Bot03 using player
+[06:33:17] Чудак Шаман killed Bot03 using player
+[06:35:33] Чудак Шаман killed Bot02 using player
+[06:35:48] Чудак Шаман killed Bot02 using player
+[06:36:09] Чудак Шаман killed Bot02 using player
+[06:36:23] Чудак Шаман killed Bot02 using player
+[06:36:48] Client "viktus" connected.
+[06:37:24] Чудак Шаман killed Bot02 using player
+[06:37:31] Чудак Шаман killed Bot02 using player
+[06:37:40] Чудак Шаман killed Bot02 using player
+[06:37:46] Чудак Шаман killed Bot02 using player
+[06:37:49] Чудак Шаман killed Bot02 using player
+[06:38:01] Чудак Шаман killed Bot02 using player
+[06:38:19] Чудак Шаман killed Bot02 using player
+[06:38:25] Client "viktus" spawned in server <STEAM_0:1:547540838> (took 97 seconds).
+[06:38:39] Имий Фамильев teleported to Чудак Шаман
+[06:38:53] Имий Фамильев: как дела?
+[06:39:05] Имий Фамильев<STEAM_0:1:547540838> spawned model models/hunter/blocks/cube6x6x025.mdl
+[06:39:07] Имий Фамильев<STEAM_0:1:547540838> spawned model models/hunter/blocks/cube025x025x025.mdl
+[06:39:10] Имий Фамильев<STEAM_0:1:547540838> spawned model models/hunter/blocks/cube6x6x025.mdl
+[06:39:14] Имий Фамильев<STEAM_0:1:547540838> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[06:39:37] Имий Фамильев teleported to Bot03
+[06:39:43] Имий Фамильев brought Чудак Шаман
+[06:39:58] Имий Фамильев: почеиу не говоришь?
+[06:40:20] Чудак Шаман: бля микрофон
+[06:40:35] Чудак Шаман: дай минуту
+[06:40:38] Имий Фамильев: ок
+[06:42:12] Имий Фамильев teleported to Чудак Шаман
+[06:47:50] Имий Фамильев<STEAM_0:1:547540838> spawned model starfall_prop
+[06:47:50] Имий Фамильев<STEAM_0:1:547540838> spawned model starfall_prop
+[06:47:54] Имий Фамильев<STEAM_0:1:547540838> spawned model starfall_prop
+[06:47:54] Имий Фамильев<STEAM_0:1:547540838> spawned model starfall_prop
+[06:47:56] Имий Фамильев<STEAM_0:1:547540838> spawned model starfall_prop
+[06:47:56] Имий Фамильев<STEAM_0:1:547540838> spawned model starfall_prop
+[06:49:01] Чудак Шаман killed Bot03 using player
+[06:53:59] Чудак Шаман killed Bot03 using player
+[06:55:25] Чудак Шаман killed Bot03 using player
+[06:55:58] Чудак Шаман killed Bot03 using player
+[06:56:31] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[06:56:39] Dropped "Имий Фамильев" from server<STEAM_0:1:547540838>
+[14:51:30] Client "Отдавай БАН" connected.
+[14:52:09] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 39 seconds).
+
+
+
+[14:55:21] New map: rp_mystic
+[15:00:38] Client "Отдавай БАН" connected.
+[15:01:02] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 24 seconds).
+[15:02:38] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+<Logging continued in "data/ulx_logs/07-18-24.txt">

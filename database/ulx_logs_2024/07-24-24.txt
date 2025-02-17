@@ -1,0 +1,22 @@
+<Logging continued from "data/ulx_logs/07-23-24.txt">
+[12:29:50] Client "Titanovsky" connected.
+[12:30:23] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 33 seconds).
+[12:46:31] (SILENT) Алексей Титановский ran lua: Entity(149):SetModel('models/player/monstermash/mm_deer_haunter.mdl')
+[12:46:55] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+
+
+
+[12:50:08] New map: rp_mystic
+[12:50:57] Client "Titanovsky" connected.
+[12:51:22] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 25 seconds).
+[13:09:52] Client "Мать твоя" connected.
+[13:27:11] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+[13:28:45] Client "Titanovsky" connected.
+[13:29:10] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 25 seconds).
+[13:30:47] (SILENT) Алексей Титановский ran lua: Entity(149):SetModel('models/player/monstermash/mm_deer_haunter.mdl')
+[13:32:00] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_orgs2
+[13:32:18] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+[19:09:06] Client "cvrsxd accuratz" connected.
+[19:15:21] Client "cvrsxd accuratz" spawned in server <STEAM_0:0:49940976> (took 375 seconds).
+[19:19:59] Dropped "Tekun Cocksucker" from server<STEAM_0:0:49940976>
+[22:29:20] Client "❤βẵĹêñçÌắģắ❤" connected.

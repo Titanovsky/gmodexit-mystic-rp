@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+
+
+$phong 1
+$phongexponent 0
+$phongboost 0
+$lightwarptexture "models\minic23\gmod\aperture_toolgun\model_lightwarp"
+
+
+$rimlight 1
+$rimlightexponent 1
+$rimlightboost ".5"
+$glowcolor 1
+}

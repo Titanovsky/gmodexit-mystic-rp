@@ -1,0 +1,6 @@
+<Logging continued from "data/ulx_logs/07-28-24.txt">
+[14:41:01] Client "dauwag" connected.
+[14:46:56] Client "dauwag" spawned in server <STEAM_0:1:518338332> (took 355 seconds).
+[14:50:26] sadasd asdadssa: !menu
+[14:59:58] Dropped "sadasd asdadssa" from server<STEAM_0:1:518338332>
+<Logging continued in "data/ulx_logs/07-30-24.txt">

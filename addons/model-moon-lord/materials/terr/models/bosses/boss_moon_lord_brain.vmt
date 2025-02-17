@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	$basetexture "terr\models\bosses\boss_moon_lord_brain"
+	$bumpmap "terr\models\bosses\boss_moon_lord_brain_normal"
+
+	$phong 1
+	$phongboost 1.5
+	$phongexponent 35
+	$phongfresnelranges "[1 1.25 3]"
+	//$phongtint "{153 195 197}"
+
+	$lightwarptexture "terr\models\terr_lightwarp"
+	$halflambert 1
+
+	$rimlight 1
+	$rimlightexponent 25
+	$rimlightboost 1
+
+	$color2 "{225 225 225}"
+	//$BaseMapAlphaPhongMask 1
+}

@@ -1,0 +1,44 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mark2580\gtav\electrical\p_h_str_avunittv5metal_a_d"
+  	"$bumpmap"     "models\mark2580\gtav\electrical\p_h_str_avunittv5metal_a_n"
+
+    $phongexponenttexture "models\mark2580\gtav\shared\green"		
+    $lightwarptexture     "models\mark2580\gtav\shared\lightwarp_metallic" 	
+	
+	$phong 1
+	$phongfresnelranges "[0.8 0.55 0.25]"
+	$phongexponent "15"	
+	$phongalbedotint 1
+	$phongboost 5
+
+	$color2 "[.3 .3 .3]"
+	$blendtintbybasealpha 1	
+
+	$envmap "env_cubemap" 
+	$normalmapalphaenvmapmask "1" 						
+	$envmapfresnel "1"								
+	$envmaptint "[0.1 0.1 0.1]"	
+	
+		"$detail"                   "models\mark2580\gtav\shared\detail_metal_001"
+	    "$detailblendfactor"        "1.5"
+	    "$detailscale"              "12"
+		"$detailblendmode"          "0"
+
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1     $color2
+			resultVar	$color
+		}
+	}		
+} 
+
+
+
+
+
+
+
+

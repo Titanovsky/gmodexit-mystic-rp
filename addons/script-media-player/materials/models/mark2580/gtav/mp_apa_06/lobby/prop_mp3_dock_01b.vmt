@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/mp_apa_06/lobby/prop_mp3_dock_01b"
+   "$bumpmap"             "models/mark2580/gtav/mp_apa_06/lobby/prop_mp3_dock_01b_n"
+
+   "$phong"               "1"
+   "$phongexponent"       "80"
+   "$phongboost"          "0.05"
+   "$phongfresnelranges"  "[2 1 5]"
+   "$halflambert"         "1"
+}

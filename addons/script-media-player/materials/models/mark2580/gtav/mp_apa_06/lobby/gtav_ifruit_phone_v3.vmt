@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/mp_apa_06/lobby/gtav_ifruit_phone_v3"
+   "$bumpmap"             "dev/bump_normal"
+
+   "$phong"               "1"
+   "$phongexponent"       "80"
+   "$phongboost"          "0.05"
+   "$phongfresnelranges"  "[2 1 5]"
+   "$halflambert"         "1"
+
+   "$selfillum"	       "1"
+   "$selfillumtint"    "[.5 .5 .5]"
+}

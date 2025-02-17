@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mark2580\gtav\electrical\prop_sec_monitor"
+  	"$bumpmap"     "models\mark2580\gtav\electrical\prop_sec_monitor_n"
+
+    $phongexponenttexture "models\mark2580\gtav\shared\green"	
+	
+	$phong 1
+	$phongfresnelranges "[0.8 0.55 0.25]"
+	$phongexponent "15"	
+	$phongalbedotint 1
+	$phongboost 2	
+	
+	$rimlight               1
+	$rimlightexponent       1
+	$rimlightboost          1			
+} 
+
+
+
+
+
+
+
+

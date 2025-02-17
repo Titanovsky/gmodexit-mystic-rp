@@ -1,0 +1,10 @@
+Refract
+{
+	$normalmap "sprites\ref_spr"		// Defines the refraction pattern; may be animated
+	//$dudvmap ...			// As above when running below DX9
+	$refracttint "[1 1 1]"		// Colors the refraction
+	$refractamount 0.2		// Refraction strength; use low values
+	"$model" 1
+	$nocull 1
+}
+

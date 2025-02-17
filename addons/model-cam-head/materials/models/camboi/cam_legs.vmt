@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{	
+	"$baseTexture" "models\camboi\cam_legs"
+	"$bumpmap" "models\camboi\cam_legs_normal"
+
+	"$phongexponenttexture" "models\camboi\cam_legs_exponent"
+	"$rimmask" "1"
+	
+		"$phongBoost" "10"	
+}

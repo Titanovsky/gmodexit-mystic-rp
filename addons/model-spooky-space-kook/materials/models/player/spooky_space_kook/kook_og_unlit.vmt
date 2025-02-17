@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/player/spooky_space_kook/kook_og_unlit"
+
+	"$phong" "1"
+	"$selfilum" "1"
+	"$phongexponent" 35
+	"$phongboost" "0.5"
+	"$phongfresnelranges"	"[ .3 3 9]"
+}

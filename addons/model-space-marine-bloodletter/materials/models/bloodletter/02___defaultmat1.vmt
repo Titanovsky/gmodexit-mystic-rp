@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Bloodletter/02___Defaultmat"
+	"$bumpmap" "models/Bloodletter/02___Defaultmat_b"
+"$phongexponenttexture" "models/Bloodletter/02___Defaultmat_n"
+               "$phong" "1"
+  "$phongboost"  "0.565625"
+  "$phongfresnelranges"  "[0.76 0.921 1.25]"
+                 $alphatest 1
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+		}
+	}
+}

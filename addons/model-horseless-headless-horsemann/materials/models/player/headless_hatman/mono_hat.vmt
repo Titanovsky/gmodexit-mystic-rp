@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\player\headless_hatman/mono_hat"
+	"$bumpmap" "models\player\headless_hatman/flat_normal" 
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models\player\headless_hatman/pyro_lightwarp"
+	"$phongfresnelranges"	"[.15 .5 1]"
+
+ 	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"  
+
+	"$colortint_base" "{125 64 113}"
+	"$color2" "{125 64 113}"
+	"$colortint_tmp" "[0 0 0]" 
+
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" "1"
+}

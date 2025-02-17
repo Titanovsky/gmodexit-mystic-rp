@@ -1,0 +1,30 @@
+[22:04:33] New map: rp_mystic
+[22:06:09] Client "Titanovsky" connected.
+[22:10:32] Client "Bot01" connected.
+[22:10:32] Client "Bot01" spawned in server <BOT> (took 417 seconds).
+[22:11:12] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 303 seconds).
+[22:14:21] (Console) added Алексей Титановский to group superadmin
+[22:25:14] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_helper
+[22:27:24] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:26] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:28] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:33] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:34] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:35] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:40] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:41] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:43] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:46] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:48] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:27:50] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_casino
+[22:29:12] Алексей Титановский<STEAM_0:1:95303327> spawned sent mystic_warehouse_take
+[22:29:23] Алексей Титановский<STEAM_0:1:95303327> spawned sent mystic_warehouse_put
+[22:43:14] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_shop_perma_weapons
+[22:43:18] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_shop_weapons
+[23:41:42] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_egoist
+[23:41:55] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_egoist
+[23:42:00] Алексей Титановский<STEAM_0:1:95303327> spawned sent npc_mystic_egoist
+
+
+
+[23:50:40] New map: rp_mystic

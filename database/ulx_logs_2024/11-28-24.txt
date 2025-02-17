@@ -1,0 +1,23 @@
+[05:06:15] New map: rp_mystic
+[09:58:42] Client "Dash" connected.
+[10:04:21] Client "Dash" spawned in server <STEAM_0:1:193188841> (took 339 seconds).
+[10:05:11] Dropped "Dash" from server<STEAM_0:1:193188841>
+[13:56:57] Client "visota271" connected.
+[14:06:49] Client "Oleshka_lytik" connected.
+[14:10:06] Client "🥸" connected.
+[14:10:47] Client "Oleshka_lytik" spawned in server <STEAM_0:1:762024849> (took 238 seconds).
+[14:19:16] Dropped "Олег Сидер" from server<STEAM_0:1:762024849>
+[16:29:25] Client "саня трахай,траха" connected.
+[16:36:23] Client "саня трахай,траха" spawned in server <STEAM_0:1:632176493> (took 418 seconds).
+[16:38:40] Client "СТАРЫЙ BOG" connected.
+[16:44:01] Никита Найт<STEAM_0:1:632176493> spawned model models/props_lab/blastdoor001c.mdl
+[16:44:20] Client "СТАРЫЙ BOG" spawned in server <STEAM_0:0:714150250> (took 340 seconds).
+[16:46:29] Никита Найт: hi
+[16:48:43] Dropped "Тайлер Дербен" from server<STEAM_0:0:714150250>
+[16:48:46] Dropped "Никита Найт" from server<STEAM_0:1:632176493>
+[17:40:02] Client "persik" connected.
+[17:42:11] Client "persik" spawned in server <STEAM_0:0:460595316> (took 129 seconds).
+[17:56:54] Dropped "Валера Картун" from server<STEAM_0:0:460595316>
+[19:10:50] Client "АБОБА" connected.
+[19:21:34] Client "АБОБА" spawned in server <STEAM_0:1:641267673> (took 644 seconds).
+[19:27:07] Dropped "АБОБА АБОБОВИЧ" from server<STEAM_0:1:641267673>

@@ -1,0 +1,6 @@
+VertexlitGeneric
+{
+$baseTexture "models\minic23\gmod\aperture_toolgun/glass"
+$translucent 1
+$nocull 1
+}

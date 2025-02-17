@@ -1,0 +1,3 @@
+[05:06:15] New map: rp_mystic
+[18:28:31] Client "Головка чеснока" connected.
+[20:03:28] Client "vsp2016" connected.

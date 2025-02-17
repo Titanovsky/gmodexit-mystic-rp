@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "models/minic23/gmod/aperture_toolgun/xcom_supressor_DIF"
+	 $bumpmap "models/minic23/gmod/aperture_toolgun/xcom_supressor_NRM"
+	 "$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+ 	"$blendtintcoloroverbase" "0" // blend mode. anything =/= 0 is ugly!
+}

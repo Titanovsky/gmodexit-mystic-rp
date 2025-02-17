@@ -1,0 +1,19 @@
+[05:06:16] New map: rp_mystic
+[15:09:31] Client "Отдавай БАН" connected.
+[15:10:13] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 42 seconds).
+[15:10:59] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_c17/trappropeller_blade.mdl
+[15:12:49] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[16:12:48] Client "nemiroff1130" connected.
+[16:17:33] Client "nemiroff1130" spawned in server <STEAM_0:0:591789568> (took 285 seconds).
+[16:20:53] Dropped "nemiroff1130" from server<STEAM_0:0:591789568>
+[16:25:54] Client "1TORFNT" connected.
+[16:25:55] Client "1TORFNT" connected.
+[16:25:57] Client "1TORFNT" connected.
+[16:26:02] Client "1TORFNT" connected.
+[16:26:02] Client "1TORFNT" connected.
+[16:26:03] Client "1TORFNT" connected.
+[16:31:36] Client "1TORFNT" spawned in server <STEAM_0:0:452159906> (took 333 seconds).
+[16:50:53] Dropped "1TORFNT" from server<STEAM_0:0:452159906>
+[21:29:00] Client "alexseus" connected.
+[22:02:48] Client "Vovka-M" connected.
+<Logging continued in "data/ulx_logs/11-19-24.txt">

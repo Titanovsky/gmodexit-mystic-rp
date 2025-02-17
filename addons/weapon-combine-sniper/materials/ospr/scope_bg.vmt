@@ -1,0 +1,5 @@
+Modulate 
+{
+	$basetexture "ospr/scope_bg"
+	$mod2x 1
+}

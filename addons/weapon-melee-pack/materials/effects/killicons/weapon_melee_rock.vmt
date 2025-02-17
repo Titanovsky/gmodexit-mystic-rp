@@ -1,0 +1,13 @@
+"UnLitGeneric"
+{
+	"$basetexture" "effects/killicons/weapon_melee_rock"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+	"$selfillumtint" "{1 1 1}"
+	"selfillummask" ""
+	"$halflambert" "1"
+	"$nocull" "1"
+	"$nodecal" "1"
+	
+	"$model" 1
+}

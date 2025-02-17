@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/mailer/elise/b_elise"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$alphatest"			1
+
+	$detail "models\mailer\elise\b_elise_emis"
+	$detailscale 1
+	$detailblendfactor "1"
+	$detailblendmode 5
+}
+// Created With MESA by www.puppet-master.net

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/minic23\gmod\aperture_toolgun\xcom_magrifle_DIF"
+	"$bumpmap" "models/minic23\aperture_toolgun\xcom_magrifle_NRM"
+	
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+ 	"$blendtintcoloroverbase" "0" // blend mode. anything =/= 0 is ugly!
+	
+	"$colortint_base" "{255 255 255}" //this color is used if there's no paint applied.  this is the color the base was BEFORE we changed it to white.
+	"$colortint_tmp" "[0 0 0]" //another variable, used to store the paint color initially
+
+}
+

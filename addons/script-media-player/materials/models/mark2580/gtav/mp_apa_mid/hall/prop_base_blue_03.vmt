@@ -1,0 +1,14 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models/mark2580/gtav/mp_apa_mid/hall/prop_base_blue_03" 
+    "$bumpmap"      "dev/bump_normal"
+
+ 	"$envmap"             "env_cubemap"
+    "$envmaptint"         "[.02 .02 .02]"
+    "$normalmapalphaenvmapmask"    "1"	
+	
+    "$nocull"             "1" 
+	
+    "$selfillum"	       "1"
+   "$selfillumtint"    "[5 5 5]"   
+} 

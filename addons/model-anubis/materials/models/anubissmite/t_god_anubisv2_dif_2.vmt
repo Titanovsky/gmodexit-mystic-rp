@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/anubissmite/T_GOD_AnubisV2_DIF_2"
+
+	"$bumpmap" "models/anubissmite/T_GOD_AnubisV2_NRM_2"
+
+	"$phong" "1" 
+	
+	"$phongboost" "0.2"
+
+
+}

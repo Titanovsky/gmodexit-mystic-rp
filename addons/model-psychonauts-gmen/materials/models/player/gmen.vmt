@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\player\gmen"
+	"$model" 1
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

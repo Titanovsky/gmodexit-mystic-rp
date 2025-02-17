@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+		
+	"$baseTexture" "models\camboi\cam_torso"
+	"$bumpmap" "models\camboi\cam_torso_normal"
+
+	"$phongexponenttexture" "models\camboi\cam_torso_exponent"
+	"$rimmask" "1"
+		
+}

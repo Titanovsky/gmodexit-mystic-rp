@@ -1,0 +1,15 @@
+[Unit]
+Description=MysticRP
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/gmod-surv
+User=gmod-surv
+Group=gmod-surv
+ExecStart=/usr/bin/screen -DmSU mystic bash /home/gmod-surv/start_mystic.sh
+Restart=always
+Nice=-10
+
+[Install]
+WantedBy=multi-user.target

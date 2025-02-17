@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/swampthing/ST_A_B_D_Low"
+                "$bumpmap"    "models/swampthing/ST_A_B_N"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongexponenttexture" "models/swampthing/ST_A_B_L"
+	"$phongalbedotint" "5"
+	"$detail" "models/swampthing/ST_EyeGlow"
+       	"$detailscale" "1"
+       	"$detailblendfactor" "1.5"
+       	"$detailblendmode" "5"
+	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+	"$PhongBrightnessScalar" "0.5"
+}

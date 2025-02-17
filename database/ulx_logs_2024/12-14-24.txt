@@ -1,0 +1,6 @@
+[05:06:16] New map: rp_mystic
+[06:16:22] Client "Co0L" connected.
+[06:23:07] Client "Co0L" spawned in server <STEAM_0:0:204382768> (took 405 seconds).
+[06:26:30] Dropped "Dd ee" from server<STEAM_0:0:204382768>
+[10:27:30] Client "payotoff." connected.
+[20:34:18] Client "Солевой гений" connected.

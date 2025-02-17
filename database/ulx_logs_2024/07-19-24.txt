@@ -1,0 +1,201 @@
+<Logging continued from "data/ulx_logs/07-18-24.txt">
+[01:10:02] Client "sh1ne" connected.
+[01:11:17] Client "viktus" connected.
+[01:12:40] Client "viktus" spawned in server <STEAM_0:1:547540838> (took 83 seconds).
+[01:14:28] Client "sh1ne" connected.
+[01:17:05] Client "sh1ne" spawned in server <STEAM_0:0:555199811> (took 157 seconds).
+[01:19:08] Client "Morb" connected.
+[01:19:15] Client "Morb" connected.
+[01:21:39] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/metal_tube.mdl
+[01:21:46] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube05x05x05.mdl
+[01:21:47] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/metal_tube.mdl
+[01:21:49] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/metal_tube.mdl
+[01:21:56] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/metal_tube.mdl
+[01:21:57] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube05x05x05.mdl
+[01:21:59] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube025x2x025.mdl
+[01:21:59] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/plates/plate05x1.mdl
+[01:22:05] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_c17/gravestone002a.mdl
+[01:22:06] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_interiors/sinkkitchen01a.mdl
+[01:22:18] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_c17/gravestone_coffinpiece001a.mdl
+[01:23:24] Client "Morb" spawned in server <STEAM_0:1:151360457> (took 249 seconds).
+[01:26:41] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:26:51] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:26:56] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:00] Alexey Popov<STEAM_0:1:151360457> spawned model models/hunter/blocks/cube025x025x025.mdl
+[01:27:01] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:03] Alexey Popov<STEAM_0:1:151360457> spawned model models/hunter/blocks/cube6x6x025.mdl
+[01:27:05] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:06] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:07] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:08] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:09] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:10] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_trainstation/tracksign08.mdl
+[01:27:11] Alexey Popov<STEAM_0:1:151360457> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[01:27:12] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/filecabinet02.mdl
+[01:27:12] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:14] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:14] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:19] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:20] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/filecabinet02.mdl
+[01:27:21] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/filecabinet02.mdl
+[01:27:21] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:21] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:21] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:21] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:21] Client "ИЖ планета 3" connected.
+[01:27:22] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:22] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:22] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:22] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:23] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:23] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:23] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001c.mdl
+[01:27:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001b.mdl
+[01:27:36] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001b.mdl
+[01:27:38] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001b.mdl
+[01:27:46] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001b.mdl
+[01:27:47] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001b.mdl
+[01:27:48] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_lab/blastdoor001b.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx4.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx2.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/plates/plate8x8.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/plates/plate1x1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx4.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube3x4x025.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube075x2x1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube075x5x075.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx4.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/tubes/tube2x2x025d.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx4.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube05x3x05.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx4.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx2.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/tubes/tube2x2x025d.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/plates/plate05x1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/plates/plate05x1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx4.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx1.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube05x3x025.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/plates/plate2x3.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube075x3x075.mdl
+[01:28:35] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/blocks/cube8x8x025.mdl
+[01:28:36] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_c17/door01_left.mdl
+[01:28:36] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/hunter/plates/plate075x1.mdl
+[01:28:36] Аманте Оуэнс<STEAM_0:0:555199811> spawned model models/props_phx/construct/wood/wood_boardx4.mdl
+[01:33:36] Имий Фамильев killed Аманте Оуэнс using player
+[01:34:06] Имий Фамильев killed Alexey Popov using player
+[01:34:57] Аманте Оуэнс killed Имий Фамильев using arccw_melee_fists
+[01:35:53] Alexey Popov: /e a
+[01:36:12] Имий Фамильев killed Аманте Оуэнс using player
+[01:36:25] Аманте Оуэнс: /anon хуй
+[01:41:05] Alexey Popov killed Имий Фамильев using dagger
+[01:44:44] Аманте Оуэнс killed Alexey Popov using player
+[01:44:47] Имий Фамильев killed Аманте Оуэнс using player
+[01:45:17] Alexey Popov killed Имий Фамильев using player
+[01:45:42] Имий Фамильев killed Аманте Оуэнс using player
+[01:46:10] Alexey Popov killed Имий Фамильев using player
+[01:46:10] Alexey Popov was killed by entityflame
+[01:46:42] Имий Фамильев killed Аманте Оуэнс using player
+[01:47:02] Имий Фамильев killed Alexey Popov using player
+[01:47:09] Alexey Popov: /craft
+[01:47:21] Аманте Оуэнс killed Имий Фамильев using player
+[01:47:27] Аманте Оуэнс killed Имий Фамильев using player
+[01:47:40] Имий Фамильев killed Аманте Оуэнс using player
+[01:48:07] Аманте Оуэнс killed Имий Фамильев using player
+[01:48:18] Аманте Оуэнс killed Имий Фамильев using player
+[01:48:27] Аманте Оуэнс killed Имий Фамильев using player
+[01:48:41] Имий Фамильев killed Аманте Оуэнс using player
+[01:49:24] Имий Фамильев killed Alexey Popov using player
+[01:49:27] Аманте Оуэнс killed Имий Фамильев using player
+[01:49:50] Alexey Popov killed Имий Фамильев using player
+[01:49:58] Alexey Popov was killed by entityflame
+[01:51:07] Имий Фамильев killed Аманте Оуэнс using player
+[01:51:08] Alexey Popov killed Имий Фамильев using player
+[01:51:27] Аманте Оуэнс killed Имий Фамильев using player
+[01:51:43] Alexey Popov killed Аманте Оуэнс using player
+[01:51:52] Alexey Popov killed Имий Фамильев using player
+[01:52:45] Alexey Popov killed Имий Фамильев using player
+[01:52:55] Alexey Popov killed Имий Фамильев using player
+[01:53:04] Alexey Popov killed Имий Фамильев using player
+[01:53:15] Alexey Popov killed Имий Фамильев using player
+[01:53:20] Аманте Оуэнс killed Alexey Popov using player
+[01:53:29] Аманте Оуэнс killed Имий Фамильев using player
+[01:53:39] Аманте Оуэнс was killed by entityflame
+[01:53:45] Alexey Popov killed Имий Фамильев using player
+[01:53:51] Alexey Popov killed Имий Фамильев using player
+[01:54:21] Аманте Оуэнс killed Имий Фамильев using player
+[01:54:43] Alexey Popov killed Имий Фамильев using player
+[01:54:51] Имий Фамильев killed Аманте Оуэнс using player
+[01:55:07] Имий Фамильев killed Alexey Popov using player
+[01:55:21] Имий Фамильев killed Аманте Оуэнс using player
+[01:55:46] Alexey Popov killed Аманте Оуэнс using player
+[01:55:50] Alexey Popov killed Имий Фамильев using player
+[01:55:57] Alexey Popov killed Имий Фамильев using player
+[01:56:24] Аманте Оуэнс killed Имий Фамильев using player
+[01:58:10] Аманте Оуэнс killed Имий Фамильев using player
+[01:58:48] Имий Фамильев killed Аманте Оуэнс using player
+[01:59:33] Имий Фамильев killed Alexey Popov using player
+[01:59:58] Имий Фамильев teleported to Аманте Оуэнс
+[01:59:59] Имий Фамильев killed Аманте Оуэнс using player
+[02:00:13] Имий Фамильев teleported to Аманте Оуэнс
+[02:00:17] Аманте Оуэнс killed Имий Фамильев using player
+[02:00:19] Dropped "Аманте Оуэнс" from server<STEAM_0:0:555199811>
+[02:00:24] Имий Фамильев teleported to Alexey Popov
+[02:00:51] Имий Фамильев killed Alexey Popov using player
+[02:01:06] Alexey Popov killed Имий Фамильев using weapon_fists
+[02:01:11] Имий Фамильев brought Alexey Popov
+[02:01:21] Alexey Popov killed Имий Фамильев using blood_mace
+[02:01:30] Имий Фамильев killed Alexey Popov using player
+[02:01:36] Имий Фамильев brought Alexey Popov
+[02:02:27] Имий Фамильев was killed by trigger_hurt
+[02:02:39] Имий Фамильев brought Alexey Popov
+[02:03:12] Имий Фамильев brought Alexey Popov
+[02:03:21] Имий Фамильев teleported to Alexey Popov
+[02:04:10] Alexey Popov: не факт что я смогу по времени у меня учёба будет
+[02:05:10] Alexey Popov: необычный даркрп
+[02:05:22] Alexey Popov: хугма
+[02:05:26] Имий Фамильев: HomeWay
+[02:05:32] Alexey Popov: ачё это
+[02:05:36] Alexey Popov: дорога домой
+[02:05:44] Alexey Popov: не поня лсмысла
+[02:09:55] Alexey Popov: да я слшыал
+[02:10:11] Alexey Popov: ну хз мб чёта подумал другое
+[02:11:31] Dropped "Alexey Popov" from server<STEAM_0:1:151360457>
+[02:16:26] Dropped "Имий Фамильев" from server<STEAM_0:1:547540838>
+[03:49:12] Client "viktus" connected.
+[03:50:31] Client "viktus" spawned in server <STEAM_0:1:547540838> (took 79 seconds).
+[03:50:55] Client "Titanovsky" connected.
+[03:51:34] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 39 seconds).
+[03:51:46] Алексей Титановский brought Имий Фамильев
+[04:02:40] Имий Фамильев<STEAM_0:1:547540838> spawned model models/dynamite/dynamite.mdl
+[04:02:49] Имий Фамильев<STEAM_0:1:547540838> spawned model models/expression 2/cpu_expression.mdl
+[04:03:35] Алексей Титановский granted god mode upon Themself
+[04:03:59] Имий Фамильев teleported to Алексей Титановский
+[04:04:00] Имий Фамильев teleported to Алексей Титановский
+[04:14:31] Имий Фамильев<STEAM_0:1:547540838> spawned model models/expression 2/cpu_interface.mdl
+[04:14:40] Имий Фамильев<STEAM_0:1:547540838> spawned model models/extras/info_speech.mdl
+[04:15:34] Имий Фамильев<STEAM_0:1:547540838> spawned model models/gibs/shield_scanner_gib1.mdl
+[04:15:39] Имий Фамильев<STEAM_0:1:547540838> spawned model models/gibs/gunship_gibs_sensorarray.mdl
+[04:16:03] Имий Фамильев<STEAM_0:1:547540838> spawned model models/gmod_tower/suitetv_large.mdl
+[04:17:28] Имий Фамильев teleported to Алексей Титановский
+[04:17:35] Имий Фамильев teleported to Алексей Титановский
+[04:19:30] Алексей Титановский: /plogs
+[04:24:45] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+[04:24:50] Dropped "Имий Фамильев" from server<STEAM_0:1:547540838>
+
+
+
+[07:15:51] New map: rp_mystic
+[15:33:18] Client "9SIX | tohiro" connected.
+[15:33:49] Client "9SIX | tohiro" spawned in server <STEAM_0:0:99492375> (took 31 seconds).
+[16:05:52] Бенджамин Гуэрреро<STEAM_0:0:99492375> spawned model models/props_c17/gate_door01a.mdl
+[16:05:54] Бенджамин Гуэрреро<STEAM_0:0:99492375> spawned model models/props_lab/blastdoor001b.mdl
+[16:06:02] Бенджамин Гуэрреро<STEAM_0:0:99492375> spawned model models/props_lab/blastdoor001b.mdl
+[16:06:09] Бенджамин Гуэрреро<STEAM_0:0:99492375> spawned model models/props_lab/blastdoor001b.mdl
+[16:06:26] Бенджамин Гуэрреро<STEAM_0:0:99492375> spawned model models/props_lab/huladoll.mdl
+[16:09:17] Dropped "Бенджамин Гуэрреро" from server<STEAM_0:0:99492375>
+<Logging continued in "data/ulx_logs/07-20-24.txt">

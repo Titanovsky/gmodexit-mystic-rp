@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/anubissmite/T_GOD_AnubisV2_MSK_2Glow"
+
+
+ "$detail" "models/anubissmite/T_GOD_AnubisV2_MSK_2Glow"
+       "$detailscale" "1"
+       "$detailblendfactor" "1.25"
+"$detailblendmode" "5"
+
+
+}

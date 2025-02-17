@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/swampthing/ST_EyeGlow"
+	"$selfillum" "1"
+}
+
+

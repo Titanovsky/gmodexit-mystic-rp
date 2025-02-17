@@ -1,0 +1,92 @@
+[00:59:07] New map: rp_mystic
+[01:22:14] Client "Bot01" connected.
+[01:22:14] Client "Bot01" spawned in server <BOT> (took 1442 seconds).
+[02:26:30] Client "Titanovsky" connected.
+[02:27:03] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 33 seconds).
+[02:34:01] Алексей Титановский granted god mode upon Themself
+[03:19:52] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+[03:19:52] Dropped "Bot01" from server<BOT>
+[13:08:15] Client "Egoist" connected.
+[13:15:44] Client "Egoist" spawned in server <STEAM_0:1:37779690> (took 449 seconds).
+[13:35:40] Egoist Goose: ЫsSЫ
+[14:27:45] Dropped "Egoist Goose" from server<STEAM_0:1:37779690>
+
+
+
+[17:07:50] New map: rp_mystic
+[17:52:37] Client "Titanovsky" connected.
+[17:53:04] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 27 seconds).
+[18:12:16] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+
+
+
+[18:18:08] New map: rp_mystic
+[18:18:31] Client "Titanovsky" connected.
+[18:18:55] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 24 seconds).
+[18:25:47] Алексей Титановский granted god mode upon Themself
+[18:30:16] Client "somewhere_in_the_universe" connected.
+[18:32:19] Client "SWEERLER" connected.
+[18:32:45] Client "somewhere_in_the_universe" spawned in server <STEAM_0:1:792586961> (took 149 seconds).
+[18:41:40] Client "Urbanichka" connected.
+[18:41:45] Dropped "kartoha mistik" from server<STEAM_0:1:792586961>
+[18:42:43] Алексей Титановский banned steamid STEAM_0:0:150035229 permanently
+[18:53:50] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+[19:18:54] Client "Bot01" connected.
+[19:18:54] Client "Bot01" spawned in server <BOT> (took 3698 seconds).
+[19:34:25] Client "Titanovsky" connected.
+[19:34:53] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 28 seconds).
+[19:35:05] Алексей Титановский granted god mode upon Themself
+[19:38:14] Client "Makar" connected.
+[19:44:26] Client "Makar" spawned in server <STEAM_0:0:23596591> (took 372 seconds).
+[19:46:23] Client "ShebupeLZ Gamer KC" connected.
+[19:46:29] Client "ShebupeLZ Gamer KC" connected.
+[19:48:54] Dropped "Макар Захаров" from server<STEAM_0:0:23596591>
+[19:50:26] Client "SWEERLER" connected.
+[19:53:29] Client "SWEERLER" spawned in server <STEAM_0:0:526793564> (took 183 seconds).
+[19:59:09] SWEERLER Chalov<STEAM_0:0:526793564> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[19:59:14] SWEERLER Chalov<STEAM_0:0:526793564> spawned model models/props_combine/breendesk.mdl
+[20:04:47] SWEERLER Chalov: /use
+[20:08:53] Client "9SIX | tohiro" connected.
+[20:16:17] Client "9SIX | tohiro" spawned in server <STEAM_0:0:99492375> (took 444 seconds).
+[20:18:30] SWEERLER Chalov killed Bot01 using dagger
+[20:24:41] SWEERLER Chalov killed Bot01 using dagger
+[20:25:16] Dropped "SWEERLER Chalov" from server<STEAM_0:0:526793564>
+[20:31:13] Dropped "Бенджамин Гуэрреро" from server<STEAM_0:0:99492375>
+[20:46:30] Client "Evil Cookie" connected.
+[20:52:05] Client "Evil Cookie" spawned in server <STEAM_0:0:465885975> (took 335 seconds).
+[20:55:49] Dropped "я кео вцфы" from server<STEAM_0:0:465885975>
+[21:12:34] Client "♰Shitzu♰" connected.
+[21:17:17] Client "♰Shitzu♰" spawned in server <STEAM_0:0:82543059> (took 283 seconds).
+[21:19:31] Client "agro dog" connected.
+[21:19:54] Курт Бейн: !menu
+[21:37:59] Курт Бейн killed Bot01 using blood_mace
+[21:38:12] Курт Бейн killed Bot01 using blood_mace
+[21:38:27] Курт Бейн killed Bot01 using blood_mace
+[21:39:32] Курт Бейн killed Bot01 using blood_mace
+[21:48:24] Курт Бейн killed Bot01 using player
+[21:48:28] Курт Бейн killed Bot01 using player
+[21:48:37] Курт Бейн killed Bot01 using player
+[21:48:42] Курт Бейн killed Bot01 using player
+[21:54:43] Dropped "Курт Бейн" from server<STEAM_0:0:82543059>
+[21:56:32] Client "Midnight Runner" connected.
+[22:01:31] Client "Midnight Runner" spawned in server <STEAM_0:1:426619019> (took 299 seconds).
+[22:16:20] Дин Формацио killed Bot01 using blood_mace
+[22:16:41] Дин Формацио killed Bot01 using blood_mace
+[22:16:49] Дин Формацио: ты человек?
+[22:17:09] Дин Формацио killed Bot01 using blood_mace
+[22:17:15] Дин Формацио killed Bot01 using blood_mace
+[22:17:21] Дин Формацио killed Bot01 using blood_mace
+[22:17:27] Дин Формацио killed Bot01 using blood_mace
+[22:18:07] Дин Формацио killed Bot01 using weapon_fists
+[22:30:10] Дин Формацио killed Bot01 using demonic_dagger
+[22:30:14] Дин Формацио killed Bot01 using demonic_dagger
+[22:30:22] Дин Формацио killed Bot01 using demonic_dagger
+[22:30:24] Дин Формацио killed Bot01 using demonic_dagger
+[22:30:27] Dropped "Дин Формацио" from server<STEAM_0:1:426619019>
+[23:16:31] Client "Satton(RU)" connected.
+[23:23:30] Client "Satton(RU)" spawned in server <STEAM_0:0:85981967> (took 419 seconds).
+[23:40:40] Satton Ruis<STEAM_0:0:85981967> spawned model models/props_lab/blastdoor001c.mdl
+[23:40:50] Satton Ruis<STEAM_0:0:85981967> spawned model models/props_lab/blastdoor001b.mdl
+[23:45:18] Satton Ruis<STEAM_0:0:85981967> spawned model models/props_phx/construct/metal_tube.mdl
+[23:45:28] Satton Ruis<STEAM_0:0:85981967> spawned model models/props_phx/construct/metal_plate1.mdl
+<Logging continued in "data/ulx_logs/07-13-24.txt">

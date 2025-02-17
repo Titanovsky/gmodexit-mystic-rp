@@ -1,0 +1,11 @@
+[05:06:16] New map: rp_mystic
+[10:59:36] Client "ĐɆɄ₴₣ɄⱤØⱤ" connected.
+[11:07:45] Client "ĐɆɄ₴₣ɄⱤØⱤ" spawned in server <STEAM_0:0:48496662> (took 489 seconds).
+[11:13:07] Дарк Вишейт: hp
+[11:43:09] Dropped "Дарк Вишейт" from server<STEAM_0:0:48496662>
+[15:43:21] Client "ancupov-uaz" connected.
+[15:48:15] Client "ancupov-uaz" spawned in server <STEAM_0:1:889306293> (took 294 seconds).
+[15:50:26] Dropped "ancupov-uaz" from server<STEAM_0:1:889306293>
+[20:55:24] Client "お茶は最高です☕" connected.
+[21:29:19] Client "grmaximal" connected.
+<Logging continued in "data/ulx_logs/11-16-24.txt">

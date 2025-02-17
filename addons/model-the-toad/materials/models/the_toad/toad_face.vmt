@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_toad/toad_face"
+	"$nocull" 1
+}

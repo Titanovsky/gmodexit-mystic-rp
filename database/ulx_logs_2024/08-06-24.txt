@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/08-05-24.txt">
+[12:41:23] Client "Erasmus Mann" connected.
+[12:53:22] Client "Erasmus Mann" spawned in server <STEAM_0:1:242841679> (took 719 seconds).
+[13:07:37] Client "Засеря" connected.
+[13:12:16] Dropped "Эразм Манн" from server<STEAM_0:1:242841679>
+[13:15:21] Client "Засеря" spawned in server <STEAM_0:1:567170872> (took 464 seconds).
+[13:26:22] Client "roxy" connected.
+[13:41:00] Dropped "Теодор Хейз" from server<STEAM_0:1:567170872>
+[16:04:01] Client "☭ Кирка-Улитка  ☭" connected.
+[16:07:56] Client "☭ Кирка-Улитка  ☭" spawned in server <STEAM_0:1:762768118> (took 235 seconds).
+[16:09:20] Dropped "☭ Кирка-Улитка  ☭" from server<STEAM_0:1:762768118>
+<Logging continued in "data/ulx_logs/08-08-24.txt">

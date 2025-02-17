@@ -1,0 +1,7 @@
+UnlitGeneric 
+{
+	$basetexture "ospr/scope_bg"
+	$translucent 1
+	$vertexalpha 1
+	$additive 1
+}

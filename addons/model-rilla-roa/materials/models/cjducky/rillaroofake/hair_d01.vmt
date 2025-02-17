@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\CJDucky\RillaRooFake/hair_D01"
+	"$bumpmap" "models\CJDucky\RillaRooFake/hair_N"
+
+	$alphatest 1
+	$nocull 1
+
+	$phong 1
+                $phongexponent 25
+	$phongboost 0.5
+	$phongfresnelranges "[0.1 0.5 1]"
+
+	$rimlight	1
+ 	$rimlightexponent	3
+	$rimlightboost	1.5
+}
+
+

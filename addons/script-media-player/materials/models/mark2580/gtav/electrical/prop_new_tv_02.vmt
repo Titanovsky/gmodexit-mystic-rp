@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/electrical/prop_new_tv_02"
+   "$bumpmap"             "models/mark2580/gtav/electrical/prop_new_tv_02_n"
+
+
+   "$phongexponenttexture" "models/mark2580/gtav/shared/green"   
+	
+	$phong "1"
+	$phongboost "1"
+	$phongfresnelranges "[0.3 0.75 1.00]"
+	$phongalbedotint "1"
+	$phongexponent       0
+	
+	$envmap "env_cubemap"
+	$envmaptint "[0.02 0.02 0.02]"
+	$normalmapalphaenvmapmask 1
+	$envmapfresnel 1	
+}

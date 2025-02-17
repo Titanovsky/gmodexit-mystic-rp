@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gtav/jesus/Pants"
+	"$bumpmap" "models/gtav/jesus/Pants Normal"
+	"$nocull" 1
+	"$nodecal" 1
+}

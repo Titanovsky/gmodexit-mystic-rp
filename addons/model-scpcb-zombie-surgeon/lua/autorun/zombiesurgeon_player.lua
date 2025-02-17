@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "SCP Zombie Surgeon", "models/scp/zombiesurgeon/zombiesurgeon.mdl" );

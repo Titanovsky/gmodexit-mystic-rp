@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+    $basetexture ambi/amp/asphalt2
+    $surfaceprop concrete
+
+    // ##################### Ambi #####################################
+    // Discord 	https://discord.com/invite/g8RmTmDGcG
+    // Steam 	https://steamcommunity.com/groups/ambiteam
+    // Maked by make_512_texture.py (https://github.com/Titanovsky)
+}
+    

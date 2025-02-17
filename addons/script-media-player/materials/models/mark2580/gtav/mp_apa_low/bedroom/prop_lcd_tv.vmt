@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+   "$basetexture"  "models/mark2580/gtav/mp_apa_low/bedroom/prop_lcd_tv"
+   "$bumpmap"     "models/mark2580/gtav/mp_apa_low/bedroom/prop_lcd_tv_n"
+	
+   $phong               1
+   $phongfresnelranges  "[0.3 0.75 1.00]"
+   $halflambert         1
+   $phongexponent       50
+   $phongboost          1
+   $nocull              0
+
+   $envmap             "env_cubemap" 
+   $envmaptint         "[.01 .01 .01]"   
+}

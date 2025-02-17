@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\swrp\player\hands_b"
+	"$halflambert" 1
+	"$nocull" 1
+}

@@ -1,0 +1,79 @@
+<Logging continued from "data/ulx_logs/08-10-24.txt">
+[16:07:26] Client "yuri3333" connected.
+[16:12:41] Client "yuri3333" spawned in server <STEAM_0:0:506031459> (took 315 seconds).
+[16:20:28] Dropped "yuri3333" from server<STEAM_0:0:506031459>
+[16:39:30] Client "evlampij261" connected.
+[17:29:36] Client "生活" connected.
+[18:53:47] Client "666" connected.
+[20:50:56] Client "Malax" connected.
+[20:56:10] Client "Malax" spawned in server <STEAM_0:1:571013464> (took 314 seconds).
+[20:58:00] Client "pozerrr4" connected.
+[21:03:18] Client "pozerrr4" spawned in server <STEAM_0:1:594871770> (took 318 seconds).
+[21:07:43] Client "Unusual Feeling" connected.
+[21:11:03] Алексей Малахов: /buydoor
+[21:13:50] Client "Unusual Feeling" spawned in server <STEAM_0:0:215026430> (took 367 seconds).
+[21:14:57] Алексей Малахов: стоять лицом к стене ковбой 1 2 3 4 5
+[21:15:36] Dropped "Алексей Малахов" from server<STEAM_0:1:571013464>
+[21:15:53] Client "Malax" connected.
+[21:16:31] Client "Malax" spawned in server <STEAM_0:1:571013464> (took 38 seconds).
+[21:16:42] papiszh pozerrr killed Алексей Малахов using player
+[21:19:30] MatE Ball: .зкщьщсщву
+[21:22:21] MatE Ball<STEAM_0:0:215026430> spawned model models/props_lab/blastdoor001c.mdl
+[21:22:46] MatE Ball<STEAM_0:0:215026430> spawned model models/props_interiors/furniture_couch01a.mdl
+[21:26:16] papiszh pozerrr killed Алексей Малахов using player
+[21:27:33] MatE Ball killed papiszh pozerrr using player
+[21:28:34] Алексей Малахов killed MatE Ball using player
+[21:29:15] Алексей Малахов killed MatE Ball using player
+[21:30:09] papiszh pozerrr killed Алексей Малахов using player
+[21:30:10] MatE Ball killed papiszh pozerrr using weapon_fists
+[21:30:47] MatE Ball killed Алексей Малахов using weapon_fists
+[21:30:52] MatE Ball killed Алексей Малахов using weapon_fists
+[21:31:11] MatE Ball killed Алексей Малахов using weapon_fists
+[21:31:19] MatE Ball killed Алексей Малахов using weapon_fists
+[21:31:25] MatE Ball killed Алексей Малахов using weapon_fists
+[21:31:40] papiszh pozerrr killed Алексей Малахов using blood_mace
+[21:31:49] MatE Ball killed papiszh pozerrr using weapon_fists
+[21:31:56] MatE Ball killed Алексей Малахов using weapon_fists
+[21:32:13] MatE Ball killed Алексей Малахов using weapon_fists
+[21:32:16] papiszh pozerrr: Гав Гав
+[21:32:19] papiszh pozerrr: Гав Гав
+[21:32:29] MatE Ball: иди нахуй
+[21:32:46] Алексей Малахов killed papiszh pozerrr using player
+[21:32:52] MatE Ball killed Алексей Малахов using weapon_fists
+[21:33:04] papiszh pozerrr killed Алексей Малахов using blood_mace
+[21:33:21] MatE Ball killed papiszh pozerrr using weapon_fists
+[21:33:26] MatE Ball killed Алексей Малахов using weapon_fists
+[21:34:31] papiszh pozerrr killed Алексей Малахов using player
+[21:35:21] papiszh pozerrr killed MatE Ball using player
+[21:35:48] papiszh pozerrr killed Алексей Малахов using player
+[21:36:23] papiszh pozerrr killed Алексей Малахов using player
+[21:36:54] papiszh pozerrr killed Алексей Малахов using player
+[21:37:13] papiszh pozerrr killed MatE Ball using player
+[21:37:34] papiszh pozerrr killed Алексей Малахов using player
+[21:38:32] papiszh pozerrr killed Алексей Малахов using player
+[21:38:53] papiszh pozerrr killed Алексей Малахов using player
+[21:39:25] papiszh pozerrr killed Алексей Малахов using player
+[21:39:34] papiszh pozerrr killed Алексей Малахов using player
+[21:39:42] papiszh pozerrr killed Алексей Малахов using player
+[21:39:51] papiszh pozerrr killed Алексей Малахов using player
+[21:40:08] papiszh pozerrr killed Алексей Малахов using player
+[21:40:47] MatE Ball killed papiszh pozerrr using player
+[21:41:57] Алексей Малахов killed MatE Ball using weapon_crowbar
+[21:42:05] papiszh pozerrr killed Алексей Малахов using player
+[21:42:31] papiszh pozerrr killed Алексей Малахов using player
+[21:43:25] Алексей Малахов killed papiszh pozerrr using player
+[21:44:21] MatE Ball killed Алексей Малахов using player
+[21:46:03] papiszh pozerrr killed Алексей Малахов using dagger
+[21:47:32] papiszh pozerrr killed Алексей Малахов using dagger
+[21:48:17] Алексей Малахов killed papiszh pozerrr using player
+[21:48:38] papiszh pozerrr killed Алексей Малахов using blood_mace
+[21:48:40] MatE Ball killed papiszh pozerrr using player
+[21:49:09] Алексей Малахов killed papiszh pozerrr using player
+[21:49:20] Алексей Малахов: стоять лицом к стене ковбой 1 2 3 4 5
+[21:49:20] Dropped "papiszh pozerrr" from server<STEAM_0:1:594871770>
+[21:49:23] MatE Ball: Лицом к стене 3....2....1
+[21:50:04] Алексей Малахов: /buyhil
+[21:50:58] Алексей Малахов killed MatE Ball using player
+[21:51:40] Dropped "MatE Ball" from server<STEAM_0:0:215026430>
+[21:52:16] Dropped "Алексей Малахов" from server<STEAM_0:1:571013464>
+[21:54:03] Client "GaGarin#moltenrust" connected.

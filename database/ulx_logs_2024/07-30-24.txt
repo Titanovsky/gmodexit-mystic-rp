@@ -1,0 +1,9 @@
+<Logging continued from "data/ulx_logs/07-29-24.txt">
+[01:08:39] Client "tohiro" connected.
+[01:09:20] Client "tohiro" spawned in server <STEAM_0:0:99492375> (took 41 seconds).
+[01:26:32] Dropped "Бенджамин Гуэрреро" from server<STEAM_0:0:99492375>
+
+
+
+[21:55:11] New map: rp_mystic
+<Logging continued in "data/ulx_logs/07-31-24.txt">

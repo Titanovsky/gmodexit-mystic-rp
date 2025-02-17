@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/08-09-24.txt">
+[06:51:25] Client "Smile;)" connected.
+[06:56:31] Client "Smile;)" spawned in server <STEAM_0:1:769182957> (took 306 seconds).
+[07:09:48] Писька Грызов<STEAM_0:1:769182957> spawned model models/props_wasteland/interior_fence002d.mdl
+[07:10:17] Писька Грызов<STEAM_0:1:769182957> spawned model models/props_lab/blastdoor001c.mdl
+[07:11:09] Писька Грызов<STEAM_0:1:769182957> spawned model models/props_interiors/furniture_couch02a.mdl
+[07:11:21] Писька Грызов<STEAM_0:1:769182957> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[07:11:35] Писька Грызов<STEAM_0:1:769182957> spawned model models/hunter/blocks/cube05x05x05.mdl
+[07:11:36] Писька Грызов<STEAM_0:1:769182957> spawned model models/props_phx/construct/metal_tube.mdl
+[07:11:49] Писька Грызов<STEAM_0:1:769182957> spawned model models/props_interiors/furniture_desk01a.mdl
+[07:12:30] Dropped "Писька Грызов" from server<STEAM_0:1:769182957>
+<Logging continued in "data/ulx_logs/08-11-24.txt">

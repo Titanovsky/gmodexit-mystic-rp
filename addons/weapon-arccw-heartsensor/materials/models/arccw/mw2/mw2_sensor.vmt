@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/arccw/mw2/mw2_sensor"
+	"$bumpmap" "models/arccw/mw2/mw2_sensor_normal"
+                "$phong" "1"
+                "$phongboost" "1"
+                "$phongfresnelranges" "[1 8 6]"
+                "$phongexponenttexture" "models/arccw/mw2/mw2_sensor_phongexponent"
+                "$phongalbedotint" "1"
+                "$halflambert" "1"
+}

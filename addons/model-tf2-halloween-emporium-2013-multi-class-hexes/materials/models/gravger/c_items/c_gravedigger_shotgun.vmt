@@ -1,0 +1,41 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gravger/c_items/c_gravedigger_shotgun"
+//	"$bumpmap" "models/weapons\v_shotgun\v_shotgun_normal"
+	$BASEMAPALPHAPHONGMASK 1
+
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" "5"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[0.0001 5 0.1]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "20"	
+	"$rimlightboost" ".175"
+
+	"$glowcolor" "1"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+	}
+}

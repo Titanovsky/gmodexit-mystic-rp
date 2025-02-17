@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/darksouls/characters/hollow_thief/c2520"
+	"$bumpmap" "models/darksouls/characters/hollow_thief/c2520_n"
+	"$alphatest"	"1"	
+
+	$nocull 1
+	$halflambert 0
+	$diffuseexp 1
+	$phongfresnelranges "[1.5 .9 1]"
+	$phongboost .1
+	$phongexponent 40
+}
+

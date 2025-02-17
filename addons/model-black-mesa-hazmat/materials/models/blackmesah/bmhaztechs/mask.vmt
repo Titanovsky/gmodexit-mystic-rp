@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\BlackMesaH\BmHazTechs\Mask"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$translucent" 1
+	"$bumpmap" "models\BlackMesaH\BmHazTechs\U4LabTechMask_01_normal"
+	"$envmap" "env_cubemap"
+	"$envmapconstrast" "5"
+	"$normalmapalphaenvmapmask" 0
+	"$envmapsaturation" .5
+	"$envmaptint" "[ .65 .65 .64]"
+}
+
+
+

@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$baseTexture" "models\smashbros/Samlyx/Eyeball_left"
+	"$iris" "models\smashbros/Samlyx/leftiris"
+	"$halflambert" 1
+	"$nodecal" 1
+}

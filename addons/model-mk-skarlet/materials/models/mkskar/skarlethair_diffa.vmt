@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "SkarletHair_DiffA"
+	"$bumpmap" "SkarletHair_NormHQA"
+	"$alphatest" 1
+}

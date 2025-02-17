@@ -1,0 +1,11 @@
+<Logging continued from "data/ulx_logs/09-06-24.txt">
+[10:07:48] Client "a.v.plotnikov.spb" connected.
+[10:12:39] Client "a.v.plotnikov.spb" spawned in server <STEAM_0:1:807509638> (took 291 seconds).
+[10:21:04] Dropped "MINI SPIKE ONE" from server<STEAM_0:1:807509638>
+[11:38:10] Client "Rost" connected.
+[22:26:53] Server is shutting down/changing levels.
+
+
+
+[22:28:29] New map: rp_mystic
+<Logging continued in "data/ulx_logs/09-08-24.txt">

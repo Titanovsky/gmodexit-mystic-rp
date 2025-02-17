@@ -1,0 +1,6 @@
+"UnlitGeneric" 
+{
+	"$baseTexture" "vgui/entities/weapon_lordi_sledgehammer"
+	"$translucent" "1"
+	"$ignorez" "1"
+}

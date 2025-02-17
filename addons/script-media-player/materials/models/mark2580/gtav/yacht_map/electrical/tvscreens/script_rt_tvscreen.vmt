@@ -1,0 +1,14 @@
+"Unlittwotexture"
+{
+   "$basetexture"         "models/mark2580/gtav/yacht_map/electrical/tvscreens/script_rt_tvscreen"
+   "$texture2"	"dev/dev_scanline"
+   "$bumpmap"             "dev/bump_normal"
+   "$phongexponenttexture" "models/mark2580/gtav/yacht_map/shared/green"  
+
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       30
+$phongboost          15
+$nocull              1
+}

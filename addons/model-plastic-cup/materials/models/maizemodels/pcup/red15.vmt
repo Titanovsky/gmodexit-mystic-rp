@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/maizemodels/pcup/red15"
+	"$surfaceprop" "plastic"
+	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.25 .5 3]"
+	"$halflambert" "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.35"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.15 .15.15]"
+	"$envmapfresnel" "1"
+	"$lightwarptexture" "models/maizemodels/pcup/red_warp"
+
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+
+	Proxies
+	{
+	PlayerColor
+	{
+	resultVar $color2
+	default 0.75 0.75 0.75
+}
+} 
+}
+

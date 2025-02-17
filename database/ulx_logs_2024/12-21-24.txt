@@ -1,0 +1,8 @@
+[05:06:15] New map: rp_mystic
+[11:44:57] Client "Rieto Sakagi" connected.
+[12:16:04] Client "Titanovsky" connected.
+[12:16:36] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 32 seconds).
+[12:18:49] Dropped "Алексей Титановский" from server<STEAM_0:1:95303327>
+[16:42:32] Client "M.sami4861" connected.
+[20:05:47] Client "gordonfrimen383" connected.
+[20:05:47] Client "gordonfrimen383" connected.

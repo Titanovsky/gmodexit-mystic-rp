@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/electrical/prop_moniter_01"
+   "$bumpmap"             "models/mark2580/gtav/electrical/prop_moniter_01_n"
+
+   "$phongexponenttexture" "models/mark2580/gtav/shared/green"     
+   
+		"$normalmapalphaenvmapmask" "1"
+		
+        "$selfillum"	       "1"
+        "$selfillumtint"       "[2 2 2]"		
+   
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       25
+$phongboost          1.5
+$nocull              1
+}

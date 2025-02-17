@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/psychedelicum/silent_hill/bubble_nurse/nurse_head"
+	$bumpmap "models/psychedelicum/silent_hill/bubble_nurse/nurse_head_bump"
+	$AmbientOcclTexture "models/psychedelicum/silent_hill/bubble_nurse/nurse_head_spec"
+	$AmbientOcclColor "[0.33, 0.33, 0.33]" // Default 0.33, 0.33, 0.33
+	$ambientocclusion .3
+
+	$phong	.3
+	$phongexponent	"1.20"
+	$phongboost	".2"	
+	$phongfresnelranges	"[1 1 10]"
+	$phongalbedotint	.3
+
+	$nodecal	.3
+	$ambientocclusion	.3
+	$halflambert	0
+
+}

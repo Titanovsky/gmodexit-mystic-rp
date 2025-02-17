@@ -1,0 +1,10 @@
+patch
+{
+include "materials/models\minic23\gmod\aperture_toolgun/item_lighting_common.vmt"
+insert
+{
+$baseTexture "models\minic23\gmod\aperture_toolgun/emitter1"
+$selfillum 1
+$model 1
+}
+}

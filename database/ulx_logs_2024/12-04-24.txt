@@ -1,0 +1,2 @@
+[05:06:16] New map: rp_mystic
+[21:33:53] Client "https://www.twitch.tv/invdafex" connected.

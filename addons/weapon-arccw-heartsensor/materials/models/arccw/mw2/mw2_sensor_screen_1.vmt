@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/arccw/mw2/mw2_sensor_screen_1"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+    "$envmapmask" "models/arccw/mw2/mw2_sensor_screen_2_ref"
+    "$model" "1"
+}

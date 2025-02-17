@@ -1,0 +1,2 @@
+[05:06:16] New map: rp_mystic
+[20:31:46] Client "KO_Sku11" connected.

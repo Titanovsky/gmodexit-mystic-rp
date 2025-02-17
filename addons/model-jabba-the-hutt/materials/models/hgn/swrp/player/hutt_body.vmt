@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\hgn\swrp\player\hutt_body"
+	//"$bumpmap" "models\hgn\swrp\player\royalguard_props_n"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+}

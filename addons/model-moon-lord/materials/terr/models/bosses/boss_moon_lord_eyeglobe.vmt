@@ -1,0 +1,32 @@
+VertexLitGeneric
+{
+	$basetexture "terr\blank"
+
+	$phong 1
+	$phongboost 1
+	$phongexponent 35
+	$phongfresnelranges "[1 4 15]"
+	//$phongtint "{163 244 227}"
+
+	$lightwarptexture "terr\models\terr_lightwarp"
+	$halflambert 1
+
+	$rimlight 1
+	$rimlightexponent 15
+	$rimlightboost 1
+
+	$color2 "{164 248 230}"
+	$BaseMapAlphaPhongMask 1
+
+	$envmap "terr\terr_reflection-cubemap2"
+	//$envmap "terr/terr_reflection-cubemap"
+	$envmaptint "{78 55 70}"
+	$envmapcontrast 1.2
+	$envmapfresnel "[0.5 1 1]"
+	$fresnelreflection 0.0
+
+	$selfillum 1
+	$selfillumfresnel 1
+	$selfillumfresnelminmaxexp "[ 0 2 4 ]" 
+	$selfillumtint "{84 148 130}"
+}

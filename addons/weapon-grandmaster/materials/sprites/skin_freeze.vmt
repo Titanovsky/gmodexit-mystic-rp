@@ -1,0 +1,25 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "sprites/skin_freeze"
+	"$model" 1
+	"$SEPARATEALPHATEXTURE" "sprites/skin_freeze"
+
+	"$bumpmap" "sprites/skin_freeze_normal"
+
+	"$texscale" 	"[1 1]"
+	"$translate"	1
+
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0
+
+	"$translucent" 1
+
+	"$envmapsaturation" 2
+
+	"$envmaptint" "[1 1 1]"
+	"$selfillum" 1
+
+
+
+}

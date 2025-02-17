@@ -1,0 +1,26 @@
+[05:06:14] New map: rp_mystic
+[16:17:53] Client "29092010nik" connected.
+[16:29:26] Client "29092010nik" spawned in server <STEAM_0:1:671055668> (took 693 seconds).
+[16:32:02] ii jp: !menu
+[16:36:56] ii jp: /command
+[16:47:26] ii jp<STEAM_0:1:671055668> spawned model models/gibs/antlion_gib_large_2.mdl
+[16:47:28] ii jp<STEAM_0:1:671055668> spawned model models/props_c17/gravestone003a.mdl
+[16:47:32] ii jp<STEAM_0:1:671055668> spawned model models/props_combine/breendesk.mdl
+[16:53:30] ii jp: !menu
+[16:53:40] ii jp: !menu
+[16:54:46] ii jp<STEAM_0:1:671055668> spawned model models/gibs/wood_gib01a.mdl
+[16:54:59] ii jp<STEAM_0:1:671055668> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[16:55:35] Dropped "ii jp" from server<STEAM_0:1:671055668>
+[16:57:15] Client "29092010nik" connected.
+[16:58:13] Client "29092010nik" spawned in server <STEAM_0:1:671055668> (took 58 seconds).
+[17:04:13] ii jp<STEAM_0:1:671055668> spawned model models/props_c17/display_cooler01a.mdl
+[17:04:40] Client "Ansar" connected.
+[17:04:59] Client "Ansar" connected.
+[17:05:04] Client "Ansar" connected.
+[17:07:32] ii jp: !menu
+[17:10:08] ii jp: /discpd
+[17:21:36] Dropped "ii jp" from server<STEAM_0:1:671055668>
+[18:03:40] Client "Oleshka_lytik" connected.
+[18:04:12] Client "Oleshka_lytik" spawned in server <STEAM_0:1:762024849> (took 32 seconds).
+[18:11:04] Dropped "Олег Сидер" from server<STEAM_0:1:762024849>
+<Logging continued in "data/ulx_logs/11-30-24.txt">

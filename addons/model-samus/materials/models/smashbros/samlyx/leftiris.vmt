@@ -1,0 +1,6 @@
+"Eyeball"
+{
+	"$baseTexture" "models\smashbros/Samlyx/Leftiris"
+	"$halflambert" 1
+	"$nodecal" 1
+}

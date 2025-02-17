@@ -1,0 +1,6 @@
+<Logging continued from "data/ulx_logs/09-12-24.txt">
+[10:30:30] Client "kiselandrey" connected.
+[10:37:09] Client "kiselandrey" spawned in server <STEAM_0:1:35962933> (took 399 seconds).
+[10:42:42] Dropped "паша кисель" from server<STEAM_0:1:35962933>
+[14:12:34] Client "Rin4a" connected.
+<Logging continued in "data/ulx_logs/09-16-24.txt">

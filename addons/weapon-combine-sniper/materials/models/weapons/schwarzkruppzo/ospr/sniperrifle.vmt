@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/weapons/schwarzkruppzo/ospr/ovsniper_diffuse"
+	$bumpmap "models/weapons/schwarzkruppzo/ospr/OVsniper_normal"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.2 0.2 0.23]"
+
+	$phong 1
+	$phongfresnelranges "[6 4 6]"
+	$phongexponent 100
+	$phongboost 1.75
+	$phongtint			"[0.85 0.9 1.15]"
+
+	$rimlight					"1"
+	$rimlightexponent			"400"
+	$rimlightboost				"0.2"
+
+	$selfillum 1
+	$selfillummask "models/weapons/schwarzkruppzo/ospr/ovsniper_emissive"
+	$selfillumtint "[0 2 2]"
+
+	$model 1
+}

@@ -1,0 +1,23 @@
+<Logging continued from "data/ulx_logs/07-14-24.txt">
+[03:40:29] Client "Отдавай БАН" connected.
+[08:08:05] Client "Egoist" connected.
+[08:10:32] Client "Egoist" spawned in server <STEAM_0:1:37779690> (took 147 seconds).
+[08:11:48] Egoist Goose: !menu
+[08:11:56] Egoist Goose to admins: message
+[08:11:59] The time is now 08:11 AM.
+[08:15:37] Dropped "Egoist Goose" from server<STEAM_0:1:37779690>
+[13:01:51] Client "Asuna's Knight" connected.
+[13:05:32] Client "Asuna's Knight" spawned in server <STEAM_0:0:506794397> (took 221 seconds).
+[13:06:58] Client "Gary" connected.
+[13:13:58] Client "Gary" spawned in server <STEAM_0:1:116993766> (took 420 seconds).
+[13:20:08] Dropped "Gary" from server<STEAM_0:1:116993766>
+[13:24:09] Dropped "Дубайский Авантюрист" from server<STEAM_0:0:506794397>
+[14:05:38] Client "Jr_bochechek" connected.
+[14:06:27] Client "Jr_bochechek" spawned in server <STEAM_0:0:791269012> (took 49 seconds).
+[14:08:35] Dropped "Jr Bochechek" from server<STEAM_0:0:791269012>
+[15:36:28] Client "9SIX | tohiro" connected.
+[15:37:01] Client "9SIX | tohiro" spawned in server <STEAM_0:0:99492375> (took 33 seconds).
+[15:38:35] Бенджамин Гуэрреро: /menu
+[15:40:17] Dropped "Бенджамин Гуэрреро" from server<STEAM_0:0:99492375>
+[19:08:16] Client "vektor014" connected.
+<Logging continued in "data/ulx_logs/07-16-24.txt">

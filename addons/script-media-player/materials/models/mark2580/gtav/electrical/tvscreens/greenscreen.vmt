@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/electrical/tvscreens/green" 
+   
+   $no_draw 1
+   
+	"Proxies"
+	{
+		"YachtTVGreenScreen"
+	    {
+	    }	
+	}   
+}

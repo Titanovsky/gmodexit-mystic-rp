@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/aeon2/null"
+	"$alphatest" "1"
+}

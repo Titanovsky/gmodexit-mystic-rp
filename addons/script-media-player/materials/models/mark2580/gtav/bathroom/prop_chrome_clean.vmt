@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mark2580\gtav\bathroom\prop_chrome_clean"
+ // 	"$bumpmap"     "models\mark2580\gtav\shared\flat_normal_alt2"
+
+    $phongexponenttexture "models\mark2580\gtav\shared\green"		
+    $lightwarptexture     "models\mark2580\gtav\shared\lightwarp_metallic" 	
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$multipass" 1	
+} 
+
+
+
+
+
+
+
+

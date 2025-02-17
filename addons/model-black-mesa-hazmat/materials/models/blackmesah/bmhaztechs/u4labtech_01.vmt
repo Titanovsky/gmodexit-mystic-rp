@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\BlackMesaH\BmHazTechs\U4LabTech_01"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$selfillum" 0
+	"$bumpmap" "models\BlackMesaH\BmHazTechs\U4LabTech_01_normal"
+	"$envmapconstrast" "10"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .56 .67 .75 ]"
+
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	"1"
+	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongexponenttexture" "models/BlackMesaH\BmHazTechs/U4LabTech_phong"
+	"$phongalbedotint" "1"
+}
+
+

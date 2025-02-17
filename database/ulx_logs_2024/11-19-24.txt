@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/11-18-24.txt">
+[03:44:49] Client "Капец" connected.
+[03:53:33] Client "Капец" spawned in server <STEAM_0:0:26183405> (took 524 seconds).
+[03:55:25] Kuzyaaaaaa Ebanatik<STEAM_0:0:26183405> spawned model models/props_borealis/borealis_door001a.mdl
+[03:55:50] Dropped "Kuzyaaaaaa Ebanatik" from server<STEAM_0:0:26183405>
+
+
+
+[05:06:17] New map: rp_mystic
+[19:45:11] Client "realnoob" connected.
+[19:45:54] Client "realnoob" spawned in server <STEAM_0:0:887215347> (took 43 seconds).
+[19:52:18] Dropped "дамир абдурахманов" from server<STEAM_0:0:887215347>

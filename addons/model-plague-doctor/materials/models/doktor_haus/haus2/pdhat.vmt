@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/doktor_haus/haus2/pdmask"
+	$bumpmap "models/doktor_haus/haus2/pdmask_n"
+	$phong 1
+	$phongboost 0.10
+	$phongfresnelranges "[1 2.5 0.5]"
+	$phongtint "[.8 .8 1]"
+	//$phongalbedotint 1
+	$phongexponent 5
+}

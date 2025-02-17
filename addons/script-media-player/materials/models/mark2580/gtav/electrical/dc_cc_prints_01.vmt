@@ -1,0 +1,19 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models\mark2580\gtav\electrical\dc_cc_prints_01" 
+
+    $phongexponenttexture "models\mark2580\gtav\shared\green"	
+	
+	$phong 1
+	$phongfresnelranges "[0.8 0.55 0.25]"
+	$phongexponent "50"	
+	$phongalbedotint 1
+	$phongboost 1	
+	
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .1 .1 .1]"
+
+   "$selfillum"	       "1"
+   "$selfillumtint"    "[.5 .5 .5]"   
+} 

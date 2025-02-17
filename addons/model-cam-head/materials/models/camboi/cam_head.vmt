@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\camboi\cam_head"
+
+	"$bumpmap" "models\camboi\cam_head_normal"
+
+	
+	"$normalmapalphaenvmapmask" 1
+	"$phong" "1"
+        "$phongBoost" "3"
+        "$phongExponent" "32"
+
+	
+
+	
+
+}

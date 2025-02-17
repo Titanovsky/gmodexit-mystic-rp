@@ -1,0 +1,92 @@
+<Logging continued from "data/ulx_logs/07-15-24.txt">
+[04:26:41] Client "Отдавай БАН" connected.
+[04:27:20] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 39 seconds).
+[04:30:45] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate1.mdl
+[04:57:08] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[04:57:23] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate_curve360.mdl
+[04:57:29] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate_curve360.mdl
+[04:58:36] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[05:05:35] Client "Подзалупный твор" connected.
+[05:11:20] Client "Подзалупный твор" spawned in server <STEAM_0:1:239226775> (took 345 seconds).
+[05:15:01] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[05:19:47] Dropped "h.,.y hkm" from server<STEAM_0:1:239226775>
+[06:32:00] Client "Отдавай БАН" connected.
+[06:32:38] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 38 seconds).
+[06:40:54] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_c17/fence01a.mdl
+[06:40:57] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_lab/blastdoor001b.mdl
+[06:41:29] Чудак Шаман was killed by npc_monk
+[06:46:57] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[06:47:31] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[06:47:32] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[06:47:33] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[06:47:33] Чудак Шаман<STEAM_0:0:516288531> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[07:00:11] Чудак Шаман was killed by npc_monk
+[07:01:06] Чудак Шаман: /clan
+[07:01:10] Чудак Шаман: !clan
+[07:09:13] Чудак Шаман killed Bot02 using player
+[07:09:38] Чудак Шаман killed Bot02 using player
+[07:09:42] Чудак Шаман killed Bot02 using player
+[07:09:49] Чудак Шаман killed Bot02 using player
+[07:10:01] Чудак Шаман killed Bot02 using player
+[07:10:08] Чудак Шаман killed Bot02 using player
+[07:10:16] Чудак Шаман killed Bot02 using player
+[07:10:20] Чудак Шаман killed Bot02 using player
+[07:10:26] Чудак Шаман killed Bot02 using player
+[07:10:32] Чудак Шаман killed Bot02 using player
+[07:10:37] Чудак Шаман killed Bot02 using player
+[07:11:00] Чудак Шаман killed Bot02 using player
+[07:11:11] Чудак Шаман killed Bot02 using player
+[07:11:20] Чудак Шаман killed Bot02 using player
+[07:11:29] Чудак Шаман killed Bot02 using player
+[07:11:47] Чудак Шаман killed Bot02 using player
+[07:11:52] Чудак Шаман killed Bot02 using player
+[07:11:59] Чудак Шаман killed Bot02 using player
+[07:12:15] Чудак Шаман killed Bot02 using player
+[07:12:22] Чудак Шаман killed Bot02 using player
+[07:12:29] Чудак Шаман killed Bot02 using player
+[07:12:36] Чудак Шаман killed Bot02 using player
+[07:12:41] Чудак Шаман killed Bot02 using player
+[07:12:50] Чудак Шаман killed Bot02 using player
+[07:12:59] Чудак Шаман killed Bot02 using player
+[07:13:02] Чудак Шаман killed Bot02 using player
+[07:13:08] Чудак Шаман killed Bot02 using player
+[07:13:15] Чудак Шаман killed Bot02 using player
+[07:13:18] Чудак Шаман killed Bot02 using player
+[07:13:33] Чудак Шаман killed Bot02 using player
+[07:13:39] Чудак Шаман killed Bot02 using player
+[07:13:42] Чудак Шаман killed Bot02 using player
+[07:13:52] Чудак Шаман killed Bot02 using player
+[07:14:01] Чудак Шаман killed Bot02 using player
+[07:14:11] Чудак Шаман killed Bot02 using player
+[07:14:21] Чудак Шаман killed Bot02 using player
+[07:14:25] Чудак Шаман killed Bot02 using player
+[07:14:31] Чудак Шаман killed Bot02 using player
+[07:14:35] Чудак Шаман killed Bot02 using player
+[07:14:42] Чудак Шаман killed Bot02 using player
+[07:14:46] Чудак Шаман killed Bot02 using player
+[07:22:44] Чудак Шаман killed Bot02 using player
+[07:22:49] Чудак Шаман killed Bot02 using player
+[07:22:54] Чудак Шаман killed Bot02 using player
+[07:23:04] Чудак Шаман killed Bot02 using player
+[07:23:07] Чудак Шаман killed Bot02 using player
+[07:23:15] Чудак Шаман killed Bot02 using player
+[07:23:18] Чудак Шаман killed Bot02 using player
+[07:23:23] Чудак Шаман killed Bot02 using player
+[07:23:29] Чудак Шаман killed Bot02 using player
+[07:23:33] Чудак Шаман killed Bot02 using player
+[07:23:41] Чудак Шаман killed Bot02 using player
+[07:23:46] Чудак Шаман killed Bot02 using player
+[07:23:51] Чудак Шаман killed Bot02 using player
+[07:24:10] Чудак Шаман killed Bot02 using player
+[07:24:17] Чудак Шаман killed Bot02 using player
+[07:24:30] Чудак Шаман killed Bot02 using player
+[07:24:38] Чудак Шаман killed Bot02 using player
+[07:24:45] Чудак Шаман killed Bot02 using player
+[07:24:48] Чудак Шаман killed Bot02 using player
+[07:26:50] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[15:51:40] Client "Asuna's Knight" connected.
+[17:01:38] Client "Отдавай БАН" connected.
+[17:02:18] Client "Отдавай БАН" spawned in server <STEAM_0:0:516288531> (took 40 seconds).
+[17:03:05] Dropped "Чудак Шаман" from server<STEAM_0:0:516288531>
+[20:19:17] Client "Padrino" connected.
+<Logging continued in "data/ulx_logs/07-17-24.txt">

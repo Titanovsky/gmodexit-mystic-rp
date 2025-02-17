@@ -1,0 +1,39 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\props_teaser\saucer_pulse_light_paint"
+	"$selfillummask"  "models\props_teaser\saucer_selfillum"
+	//"$selfillum" "1"	
+	
+
+    "$phong" "1"
+    "$phongboost" "3"    
+    "$phongfresnelranges"    "[1 1.5 1]"
+	"$basemapalphaphongmask" "1"
+	"$PhongAlbedoTint" "1"
+	
+	"$phongtint" "[0.3 0.7 0.7]"
+
+	"$color2" "{ 56 252 227 }"
+	"$colortint_base" "{ 56 252 227}"
+	"$colortint_tmp" "[0 0 0]"
+	"$blendtintbybasealpha" "1"
+
+	"Proxies"
+	{
+		"Equals"
+		{
+			"srcVar1"  "$yellow"
+			"resultVar" "$color2"
+		}
+		"ItemTintColor"
+		{
+			"resultVar" "$colortint_tmp"
+		}
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"	"$colortint_tmp"
+			"srcVar2"	"$colortint_base"
+			"resultVar" "$color2"
+		}
+	}
+}

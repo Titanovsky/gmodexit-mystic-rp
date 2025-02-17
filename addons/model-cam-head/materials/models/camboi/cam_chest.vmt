@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+	{	
+	"$baseTexture" "models\camboi\cam_chest"
+	"$bumpmap" "models\camboi\cam_chest_normal"	
+}

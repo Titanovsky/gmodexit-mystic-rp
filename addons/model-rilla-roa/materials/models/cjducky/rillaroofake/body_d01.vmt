@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\CJDucky\RillaRooFake/Body_D01"
+	"$bumpmap" "models\CJDucky\RillaRooFake/Body_N"
+
+	$phong 1
+                $phongexponent 5
+	$phongboost 0.5
+	$phongfresnelranges "[0.1 0.5 1]"
+
+	$rimlight	1
+ 	$rimlightexponent	3
+	$rimlightboost	1.5
+}
+

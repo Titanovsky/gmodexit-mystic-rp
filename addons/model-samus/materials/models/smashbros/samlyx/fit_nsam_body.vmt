@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\smashbros/Samlyx/Fit_Nsam_body"
+	"$selfillum" 1
+	"$bumpmap" "models\smashbros/Samlyx/flat2"
+        "$model" 1
+	"$nodecal" 1
+	"$halflambert" 1
+	"$phong" "1"
+	"$ambientocclusiontexture" "models/smashbros/Samlyx/flat2"
+ 	"$phongexponent" 5
+	"$phongexponenttexture" "models/smashbros/Samlyx/flat2"
+	"$phongboost"	"8"
+	"$phongfresnelranges"	"[0.02 0.05 0.2]"
+}

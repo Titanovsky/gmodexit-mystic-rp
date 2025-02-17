@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/elf/vetement"
+
+	$nocull 1
+}
